@@ -22,7 +22,7 @@ library(dplyr)
 #inner join property_dim pd on tbl1.property_id=pd.property_id ) as tbl2 group by country order by 1 desc
 #")
 
-df <- read.table("D:/GDrive/MSBI_PROJ_20191128_1/R_Script/script1.csv",header =FALSE,sep = ",")
+df <- read.table("Data/script1.csv",header =FALSE,sep = ",")
 
 View(df)
 
