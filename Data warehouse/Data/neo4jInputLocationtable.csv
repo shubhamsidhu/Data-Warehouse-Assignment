@@ -1,0 +1,741 @@
+﻿location_id,is_location_exact,street,neighbourhood,neighbourhood_cleansed,neighbourhood_group_cleansed,city,state,zipcode,market,smart_location,country_code,country,latitude,longitude,Rank
+38840597,t,"Parempuyre, Nouvelle-Aquitaine, France",,Parempuyre,Parempuyre,Parempuyre,Nouvelle-Aquitaine,33290,NULL,NULL,FR,France,44.94381,-0.60436,1
+38838780,t,"Pessac, Nouvelle-Aquitaine, France",,Brivazac-Candau,Pessac,Pessac,Nouvelle-Aquitaine,33600,NULL,NULL,FR,France,44.80058,-0.61038,2
+38828970,t,"MÃ©rignac, Nouvelle-Aquitaine, France",,Chemin Long,Merignac,MÃ©rignac,Nouvelle-Aquitaine,33700,NULL,NULL,FR,France,44.82228,-0.65762,3
+38819839,f,"Bouliac, Nouvelle-Aquitaine, France",,Bouliac,Bouliac,Bouliac,Nouvelle-Aquitaine,33270,NULL,NULL,FR,France,44.81799,-0.50754,4
+38818563,t,"BÃ¨gles, Nouvelle-Aquitaine, France",,Villenave-d'Ornon,Villenave-d'Ornon,BÃ¨gles,Nouvelle-Aquitaine,33140,NULL,NULL,FR,France,44.79497,-0.56789,5
+37935926,t,"Berlin, Berlin, Germany",Adlershof,Adlershof,Treptow - KÃ¶penick,Berlin,Berlin,12489,NULL,NULL,DE,Germany,52.43282,13.52763,1
+37707025,f,"Berlin, Berlin, Germany",Adlershof,Adlershof,Treptow - KÃ¶penick,Berlin,Berlin,12489,NULL,NULL,DE,Germany,52.4376,13.5463,2
+36842111,t,"Berlin, Berlin, Germany",Adlershof,Adlershof,Treptow - KÃ¶penick,Berlin,Berlin,12489,NULL,NULL,DE,Germany,52.43339,13.53847,3
+36831368,t,"Berlin, Berlin, Germany",Adlershof,Adlershof,Treptow - KÃ¶penick,Berlin,Berlin,12489,NULL,NULL,DE,Germany,52.43422,13.5408,4
+36508433,t,"Berlin, Berlin, Germany",Adlershof,Adlershof,Treptow - KÃ¶penick,Berlin,Berlin,12489,NULL,NULL,DE,Germany,52.43715,13.54047,5
+38109259,t,"Berlin, Berlin, Germany",Alt-HohenschÃ¶nhausen,Alt-HohenschÃ¶nhausen Nord,Lichtenberg,Berlin,Berlin,13055,NULL,NULL,DE,Germany,52.54783,13.50036,1
+37746012,t,"Berlin, Berlin, Germany",Alt-HohenschÃ¶nhausen,Alt-HohenschÃ¶nhausen SÃ¼d,Lichtenberg,Berlin,Berlin,13055,NULL,NULL,DE,Germany,52.5348,13.48575,2
+37667025,t,"Berlin, Berlin, Germany",Alt-HohenschÃ¶nhausen,Alt-HohenschÃ¶nhausen SÃ¼d,Lichtenberg,Berlin,Berlin,13055,NULL,NULL,DE,Germany,52.53499,13.49199,3
+37555246,f,"Berlin, Berlin, Germany",Alt-HohenschÃ¶nhausen,Alt-HohenschÃ¶nhausen SÃ¼d,Lichtenberg,Berlin,Berlin,10369,NULL,NULL,DE,Germany,52.53491,13.47588,4
+37281205,f,"Berlin, Berlin, Germany",Alt-HohenschÃ¶nhausen,Alt-HohenschÃ¶nhausen SÃ¼d,Lichtenberg,Berlin,Berlin,13055,NULL,NULL,DE,Germany,52.54121,13.49014,5
+38502596,t,"Berlin, Berlin, Germany",Alt-Treptow,Alt  Treptow,Treptow - KÃ¶penick,Berlin,Berlin,12435,NULL,NULL,DE,Germany,52.49632,13.45275,1
+38388062,t,"Berlin, Berlin, Germany",Alt-Treptow,Alt  Treptow,Treptow - KÃ¶penick,Berlin,Berlin,12435,NULL,NULL,DE,Germany,52.49113,13.44712,2
+38352681,t,"Berlin, Berlin, Germany",Alt-Treptow,Alt  Treptow,Treptow - KÃ¶penick,Berlin,Berlin,12435,NULL,NULL,DE,Germany,52.49126,13.44969,3
+38224089,f,"Berlin, Berlin, Germany",Alt-Treptow,Alt  Treptow,Treptow - KÃ¶penick,Berlin,Berlin,12435,NULL,NULL,DE,Germany,52.49154,13.44906,4
+37848851,f,"Berlin, Berlin, Germany",Alt-Treptow,Alt  Treptow,Treptow - KÃ¶penick,Berlin,Berlin,12435,NULL,NULL,DE,Germany,52.48951,13.45387,5
+37558386,t,"Berlin, Berlin, Germany",Altglienicke,Altglienicke,Treptow - KÃ¶penick,Berlin,Berlin,12524,NULL,NULL,DE,Germany,52.41538,13.54733,1
+37309360,f,"Berlin, Berlin, Germany",Altglienicke,Altglienicke,Treptow - KÃ¶penick,Berlin,Berlin,12524,NULL,NULL,DE,Germany,52.41245,13.53576,2
+37057505,t,"Berlin, Berlin, Germany",Altglienicke,Altglienicke,Treptow - KÃ¶penick,Berlin,Berlin,12524,NULL,NULL,DE,Germany,52.40319,13.54319,3
+31229924,f,"Berlin, Berlin, Germany",Altglienicke,Altglienicke,Treptow - KÃ¶penick,Berlin,Berlin,12524,NULL,NULL,DE,Germany,52.40017,13.52285,4
+31122541,f,"Berlin, Berlin, Germany",Altglienicke,Altglienicke,Treptow - KÃ¶penick,Berlin,Berlin,12524,NULL,NULL,DE,Germany,52.39971,13.52424,5
+38561036,f,"Amsterdam, North Holland, Netherlands",Amsterdam Centrum,Centrum-West,,Amsterdam,North Holland,,NULL,NULL,NL,Netherlands,52.36648,4.89433,1
+38531529,f,"Amsterdam, North Holland, Netherlands",Amsterdam Centrum,Centrum-West,,Amsterdam,North Holland,,NULL,NULL,NL,Netherlands,52.36622,4.89559,2
+38457953,f,"Amsterdam, Noord-Holland, Netherlands",Amsterdam Centrum,Centrum-West,,Amsterdam,Noord-Holland,1012 DM,NULL,NULL,NL,Netherlands,52.37376,4.89959,3
+38453991,f,"Amsterdam, North Holland, Netherlands",Amsterdam Centrum,Centrum-West,,Amsterdam,North Holland,,NULL,NULL,NL,Netherlands,52.3677,4.89488,4
+38452809,f,"Amsterdam, North Holland, Netherlands",Amsterdam Centrum,Centrum-West,,Amsterdam,North Holland,,NULL,NULL,NL,Netherlands,52.36636,4.89569,5
+38808379,t,"Bordeaux, Nouvelle-Aquitaine, France",Bacalan,Bordeaux Maritime,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33300,NULL,NULL,FR,France,44.86976,-0.55439,1
+38676289,f,"Bordeaux, Nouvelle-Aquitaine, France",Bacalan,Bordeaux Maritime,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33300,NULL,NULL,FR,France,44.87954,-0.55098,2
+38545772,t,"Lormont, Nouvelle-Aquitaine, France",Bacalan,Lormont,Lormont,Lormont,Nouvelle-Aquitaine,33310,NULL,NULL,FR,France,44.87778,-0.53476,3
+38415977,t,"Bordeaux, Nouvelle-Aquitaine, France",Bacalan,Bordeaux Maritime,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33300,NULL,NULL,FR,France,44.86516,-0.55152,4
+38403375,t,"Bordeaux, Nouvelle-Aquitaine, France",Bacalan,Bordeaux Maritime,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33300,NULL,NULL,FR,France,44.8667,-0.55388,5
+38224217,t,"Amsterdam, Noord-Holland, Netherlands",Banne Buiksloot,Noord-West,,Amsterdam,Noord-Holland,1034 ST,NULL,NULL,NL,Netherlands,52.41044,4.9161,1
+37312091,t,"Amsterdam, Noord-Holland, Netherlands",Banne Buiksloot,Noord-West,,Amsterdam,Noord-Holland,1034 KE,NULL,NULL,NL,Netherlands,52.40564,4.91576,2
+37262144,f,"Amsterdam, North Holland, Netherlands",Banne Buiksloot,Noord-West,,Amsterdam,North Holland,1034 BS,NULL,NULL,NL,Netherlands,52.40565,4.90951,3
+37261496,f,"Amsterdam, Noord-Holland, Netherlands",Banne Buiksloot,Noord-West,,Amsterdam,Noord-Holland,1034 BS,NULL,NULL,NL,Netherlands,52.40556,4.90847,4
+37208665,f,"Amsterdam, Noord-Holland, Netherlands",Banne Buiksloot,Noord-West,,Amsterdam,Noord-Holland,1034 KE,NULL,NULL,NL,Netherlands,52.40381,4.91423,5
+38780206,t,"Bordeaux, Nouvelle-Aquitaine, France",Bastide,La Bastide,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33100,NULL,NULL,FR,France,44.84773,-0.54725,1
+38744169,t,"Bordeaux, Nouvelle-Aquitaine, France",Bastide,La Bastide,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33100,NULL,NULL,FR,France,44.84257,-0.55732,2
+38725748,t,"Bordeaux, Nouvelle-Aquitaine, France",Bastide,La Bastide,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33100,NULL,NULL,FR,France,44.84909,-0.54893,3
+38724928,t,"Bordeaux, Nouvelle-Aquitaine, France",Bastide,La Bastide,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33100,NULL,NULL,FR,France,44.84896,-0.54752,4
+38701514,f,"Bordeaux, Nouvelle-Aquitaine, France",Bastide,La Bastide,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33100,NULL,NULL,FR,France,44.84147,-0.55167,5
+38656956,t,"Berlin, Berlin, Germany",Baumschulenweg,Baumschulenweg,Treptow - KÃ¶penick,Berlin,Berlin,12437,NULL,NULL,DE,Germany,52.46468,13.48984,1
+37169235,t,"Berlin, Berlin, Germany",Baumschulenweg,Baumschulenweg,Treptow - KÃ¶penick,Berlin,Berlin,12437,NULL,NULL,DE,Germany,52.46502,13.48771,2
+37087005,t,"Berlin, Berlin, Germany",Baumschulenweg,Baumschulenweg,Treptow - KÃ¶penick,Berlin,Berlin,12437,NULL,NULL,DE,Germany,52.46156,13.48148,3
+36965694,t,"Berlin, Berlin, Germany",Baumschulenweg,Baumschulenweg,Treptow - KÃ¶penick,Berlin,Berlin,12437,NULL,NULL,DE,Germany,52.46441,13.48369,4
+36302536,t,"Berlin, Berlin, Germany",Baumschulenweg,Baumschulenweg,Treptow - KÃ¶penick,Berlin,Berlin,12437,NULL,NULL,DE,Germany,52.46905,13.49,5
+38530643,t,"Berlin, Berlin, Germany",Biesdorf,Biesdorf,Marzahn - Hellersdorf,Berlin,Berlin,12683,NULL,NULL,DE,Germany,52.50285,13.57447,1
+36294158,t,"Berlin, Berlin, Germany",Biesdorf,Biesdorf,Marzahn - Hellersdorf,Berlin,Berlin,12683,NULL,NULL,DE,Germany,52.49905,13.56059,2
+34983828,t,"Berlin, Berlin, Germany",Biesdorf,Biesdorf,Marzahn - Hellersdorf,Berlin,Berlin,12683,NULL,NULL,DE,Germany,52.52694,13.55786,3
+33732235,t,"Berlin, Berlin, Germany",Biesdorf,Biesdorf,Marzahn - Hellersdorf,Berlin,Berlin,12683,NULL,NULL,DE,Germany,52.50778,13.54497,4
+33693955,t,"Berlin, Berlin, Germany",Biesdorf,Biesdorf,Marzahn - Hellersdorf,Berlin,Berlin,12683,NULL,NULL,DE,Germany,52.49434,13.55229,5
+36466191,t,"Berlin, Berlin, Germany",Blankenburg,Blankenburg/Heinersdorf/MÃ¤rchenland,Pankow,Berlin,Berlin,13129,NULL,NULL,DE,Germany,52.5979,13.45231,1
+36162514,f,"Berlin, Berlin, Germany",Blankenburg,Blankenburg/Heinersdorf/MÃ¤rchenland,Pankow,Berlin,Berlin,13129,NULL,NULL,DE,Germany,52.59099,13.47081,2
+26546193,t,"Berlin, Berlin, Germany",Blankenburg,Blankenburg/Heinersdorf/MÃ¤rchenland,Pankow,Berlin,Berlin,13129,NULL,NULL,DE,Germany,52.6008,13.45037,3
+22489018,t,"Berlin, Berlin, Germany",Blankenburg,Blankenburg/Heinersdorf/MÃ¤rchenland,Pankow,Berlin,Berlin,13129,NULL,NULL,DE,Germany,52.58816,13.4649,4
+14259993,t,"Berlin, Berlin, Germany",Blankenburg,Blankenburg/Heinersdorf/MÃ¤rchenland,Pankow,Berlin,Berlin,13129,NULL,NULL,DE,Germany,52.59426,13.45537,5
+38585015,f,"Berlin-Bohnsdorf, Germany",Bohnsdorf,Bohnsdorf,Treptow - KÃ¶penick,Berlin-Bohnsdorf,,12526,NULL,NULL,DE,Germany,52.39921,13.57714,1
+34331966,t,"Berlin, Berlin, Germany",Bohnsdorf,Bohnsdorf,Treptow - KÃ¶penick,Berlin,Berlin,12526,NULL,NULL,DE,Germany,52.39926,13.54973,2
+34083536,t,"Berlin, Berlin, Germany",Bohnsdorf,Bohnsdorf,Treptow - KÃ¶penick,Berlin,Berlin,12526,NULL,NULL,DE,Germany,52.40082,13.573,3
+28333870,t,"Berlin, Berlin, Germany",Bohnsdorf,Bohnsdorf,Treptow - KÃ¶penick,Berlin,Berlin,12526,NULL,NULL,DE,Germany,52.40547,13.58171,4
+27794196,t,"Berlin, Berlin, Germany",Bohnsdorf,Bohnsdorf,Treptow - KÃ¶penick,Berlin,Berlin,12526,NULL,NULL,DE,Germany,52.39313,13.57016,5
+38591122,f,"Amsterdam, Noord-Holland, Netherlands",Bos en Lommer,Bos en Lommer,,Amsterdam,Noord-Holland,1061 BM,NULL,NULL,NL,Netherlands,52.378,4.83825,1
+38519484,t,"Amsterdam, Noord-Holland, Netherlands",Bos en Lommer,Westerpark,,Amsterdam,Noord-Holland,1051 NZ,NULL,NULL,NL,Netherlands,52.38477,4.86725,2
+38453110,t,"Amsterdam, Noord-Holland, Netherlands",Bos en Lommer,Bos en Lommer,,Amsterdam,Noord-Holland,1055,NULL,NULL,NL,Netherlands,52.37816,4.85346,3
+38450377,f,"Amsterdam, Noord-Holland, Netherlands",Bos en Lommer,Bos en Lommer,,Amsterdam,Noord-Holland,1055 CH,NULL,NULL,NL,Netherlands,52.37859,4.85206,4
+38376360,f,"Amsterdam, Netherlands",Bos en Lommer,Bos en Lommer,,Amsterdam,,1055aa,NULL,NULL,NL,Netherlands,52.37615,4.84602,5
+38477732,f,"Berlin, Berlin, Germany",Britz,Britz,NeukÃ¶lln,Berlin,Berlin,12349,NULL,NULL,DE,Germany,52.42833,13.43557,1
+38469027,t,"Berlin, Berlin, Germany",Britz,Britz,NeukÃ¶lln,Berlin,Berlin,12347,NULL,NULL,DE,Germany,52.45924,13.43554,2
+38423365,t,"Berlin, Berlin, Germany",Britz,Britz,NeukÃ¶lln,Berlin,Berlin,12359,NULL,NULL,DE,Germany,52.45001,13.45342,3
+38121756,f,"Berlin, Berlin, Germany",Britz,Britz,NeukÃ¶lln,Berlin,Berlin,12347,NULL,NULL,DE,Germany,52.45514,13.43798,4
+37844521,f,"Berlin, Berlin, Germany",Britz,Britz,NeukÃ¶lln,Berlin,Berlin,12359,NULL,NULL,DE,Germany,52.4531,13.43979,5
+30499973,t,"Berlin, Berlin, Germany",Buch,Buch,Pankow,Berlin,Berlin,13125,NULL,NULL,DE,Germany,52.62406,13.49617,1
+26734810,f,"Berlin, Berlin, Germany",Buch,Buch,Pankow,Berlin,Berlin,13125,NULL,NULL,DE,Germany,52.63548,13.50082,2
+12567634,t,"Berlin, Berlin, Germany",Buch,Buch,Pankow,Berlin,Berlin,13125,NULL,NULL,DE,Germany,52.64015,13.49344,3
+6847300,t,"Berlin, Berlin, Germany",Buch,Buch,Pankow,Berlin,Berlin,13125,NULL,NULL,DE,Germany,52.65167,13.48974,4
+5822783,t,"Berlin, Berlin, Germany",Buch,Buch,Pankow,Berlin,Berlin,13125,NULL,NULL,DE,Germany,52.64142,13.49012,5
+37743950,t,"Berlin, Berlin, Germany",Buckow,Buckow,NeukÃ¶lln,Berlin,Berlin,12349,NULL,NULL,DE,Germany,52.42297,13.40744,1
+35907109,t,"Berlin, Berlin, Germany",Buckow,Buckow,NeukÃ¶lln,Berlin,Berlin,12349,NULL,NULL,DE,Germany,52.41953,13.42506,2
+35906942,t,"Berlin, Berlin, Germany",Buckow,Buckow,NeukÃ¶lln,Berlin,Berlin,12349,NULL,NULL,DE,Germany,52.41933,13.42485,3
+35906439,t,"Berlin, Berlin, Germany",Buckow,Buckow,NeukÃ¶lln,Berlin,Berlin,12349,NULL,NULL,DE,Germany,52.42006,13.42375,4
+35450522,t,"Berlin, Berlin, Germany",Buckow,Rudow,NeukÃ¶lln,Berlin,Berlin,12351,NULL,NULL,DE,Germany,52.43432,13.47171,5
+38339700,t,"Amsterdam, Noord-Holland, Netherlands",Buiksloterham,Oud-Noord,,Amsterdam,Noord-Holland,1032,NULL,NULL,NL,Netherlands,52.39507,4.90409,1
+38339642,t,"Amsterdam, Noord-Holland, Netherlands",Buiksloterham,Oud-Noord,,Amsterdam,Noord-Holland,1032,NULL,NULL,NL,Netherlands,52.39806,4.90439,2
+37791366,t,"Amsterdam, Noord-Holland, Netherlands",Buiksloterham,Oud-Noord,,Amsterdam,Noord-Holland,1032,NULL,NULL,NL,Netherlands,52.39646,4.90369,3
+36684541,f,"Amsterdam, Noord-Holland, Netherlands",Buiksloterham,Oud-Noord,,Amsterdam,Noord-Holland,1032LK,NULL,NULL,NL,Netherlands,52.39655,4.90705,4
+36633645,f,"Amsterdam, North Holland, Netherlands",Buiksloterham,Oud-Noord,,Amsterdam,North Holland,1032 LN,NULL,NULL,NL,Netherlands,52.4006,4.9036,5
+38155623,f,"Amsterdam, NH, Netherlands",Buikslotermeer,Noord-Oost,,Amsterdam,NH,1025 TE,NULL,NULL,NL,Netherlands,52.39808,4.93023,1
+37614252,f,"Amsterdam , Netherlands",Buikslotermeer,Noord-Oost,,Amsterdam ,,1025ms,NULL,NULL,NL,Netherlands,52.4088,4.93144,2
+36807363,t,"Amsterdam, Noord-Holland, Netherlands",Buikslotermeer,Noord-Oost,,Amsterdam,Noord-Holland,1025 EA,NULL,NULL,NL,Netherlands,52.40501,4.93962,3
+36632513,f,"Amsterdam, North Holland, Netherlands",Buikslotermeer,Noord-Oost,,Amsterdam,North Holland,1027 AD,NULL,NULL,NL,Netherlands,52.41226,4.95323,4
+36628264,f,"Amsterdam, North Holland, Netherlands",Buikslotermeer,Noord-Oost,,Amsterdam,North Holland,1027 AD,NULL,NULL,NL,Netherlands,52.41254,4.95278,5
+38068955,f,"Amsterdam, Noord-Holland, Netherlands",Buitenveldert-Oost,Buitenveldert - Zuidas,,Amsterdam,Noord-Holland,1083,NULL,NULL,NL,Netherlands,52.32592,4.88504,1
+37748130,t,"Amsterdam, Noord-Holland, Netherlands",Buitenveldert-Oost,Buitenveldert - Zuidas,,Amsterdam,Noord-Holland,1082 AC,NULL,NULL,NL,Netherlands,52.32386,4.88001,2
+37264888,t,"Amsterdam, Noord-Holland, Netherlands",Buitenveldert-Oost,Buitenveldert - Zuidas,,Amsterdam,Noord-Holland,1083 CW,NULL,NULL,NL,Netherlands,52.32804,4.88556,3
+36928848,f,"Amsterdam, North Holland, Netherlands",Buitenveldert-Oost,Buitenveldert - Zuidas,,Amsterdam,North Holland,1082 AC,NULL,NULL,NL,Netherlands,52.32313,4.87941,4
+36828445,t,"Amsterdam, Noord-Holland, Netherlands",Buitenveldert-Oost,Buitenveldert - Zuidas,,Amsterdam,Noord-Holland,1083 AV,NULL,NULL,NL,Netherlands,52.32516,4.88463,5
+38576040,t,"Amsterdam, Noord-Holland, Netherlands",Buitenveldert-West,Buitenveldert - Zuidas,,Amsterdam,Noord-Holland,1081 BW,NULL,NULL,NL,Netherlands,52.32458,4.86083,1
+38336576,t,"Amsterdam, Noord-Holland, Netherlands",Buitenveldert-West,Buitenveldert - Zuidas,,Amsterdam,Noord-Holland,1082 SK,NULL,NULL,NL,Netherlands,52.33344,4.87152,2
+37716092,t,"Amsterdam, Noord-Holland, Netherlands",Buitenveldert-West,Buitenveldert - Zuidas,,Amsterdam,Noord-Holland,1082 BV,NULL,NULL,NL,Netherlands,52.32629,4.8785,3
+37667289,f,"Amsterdam, NH, Netherlands",Buitenveldert-West,Buitenveldert - Zuidas,,Amsterdam,NH,1082 TS,NULL,NULL,NL,Netherlands,52.33306,4.87663,4
+37577632,t,"Amsterdam, Noord-Holland, Netherlands",Buitenveldert-West,Buitenveldert - Zuidas,,Amsterdam,Noord-Holland,1081 EA,NULL,NULL,NL,Netherlands,52.32532,4.85877,5
+38876757,t,"Bordeaux, Nouvelle-Aquitaine, France",Capucins - Victoire,Bordeaux Sud,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33800,NULL,NULL,FR,France,44.82907,-0.57083,1
+38839135,f,"Bordeaux, Nouvelle-Aquitaine, France",Capucins - Victoire,Bordeaux Sud,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33000,NULL,NULL,FR,France,44.83417,-0.57455,2
+38795083,f,"Bordeaux, Nouvelle-Aquitaine, France",Capucins - Victoire,Bordeaux Sud,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33800,NULL,NULL,FR,France,44.83398,-0.56754,3
+38773578,t,"Bordeaux, Nouvelle-Aquitaine, France",Capucins - Victoire,Bordeaux Sud,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33800,NULL,NULL,FR,France,44.82993,-0.56998,4
+38713248,t,"Bordeaux, Nouvelle-Aquitaine, France",Capucins - Victoire,Bordeaux Sud,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33000,NULL,NULL,FR,France,44.83403,-0.57206,5
+38507525,t,"Le Bouscat, Nouvelle-Aquitaine, France",CaudÃ©ron,Le Bouscat,Le Bouscat,Le Bouscat,Nouvelle-Aquitaine,33110,NULL,NULL,FR,France,44.86072,-0.60076,1
+38497122,f,"Le Bouscat, Nouvelle-Aquitaine, France",CaudÃ©ron,Caudran,Bordeaux,Le Bouscat,Nouvelle-Aquitaine,33110,NULL,NULL,FR,France,44.85823,-0.60705,2
+38456741,t,"Bordeaux, Nouvelle-Aquitaine, France",CaudÃ©ron,Caudran,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33200,NULL,NULL,FR,France,44.84834,-0.60478,3
+38443464,f,"Bordeaux, Nouvelle-Aquitaine, France",CaudÃ©ron,Caudran,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33200,NULL,NULL,FR,France,44.84152,-0.60086,4
+38442560,t,"Bordeaux, Nouvelle-Aquitaine, France",CaudÃ©ron,Caudran,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33200,NULL,NULL,FR,France,44.84339,-0.61398,5
+38750265,t,"Bologna, Emilia-Romagna, Italy",Centocelle,Santo Stefano,,Bologna,Emilia-Romagna,40126,NULL,NULL,IT,Italy,44.50236,11.35184,1
+38733887,t,"Bologna, Emilia-Romagna, Italy",Centocelle,Santo Stefano,,Bologna,Emilia-Romagna,40126,NULL,NULL,IT,Italy,44.49615,11.34895,2
+38723493,t,"Berlin, Berlin, Germany",Charlottenburg,Otto-Suhr-Allee,Charlottenburg-Wilm.,Berlin,Berlin,10585,NULL,NULL,DE,Germany,52.51412,13.30627,1
+38688687,t,"Berlin, Berlin, Germany",Charlottenburg,KantstraÃŸe,Charlottenburg-Wilm.,Berlin,Berlin,10625,NULL,NULL,DE,Germany,52.50639,13.31643,2
+38686018,t,"Berlin, Berlin, Germany",Charlottenburg,SchloÃŸ Charlottenburg,Charlottenburg-Wilm.,Berlin,Berlin,14059,NULL,NULL,DE,Germany,52.51233,13.28909,3
+38662272,t,"Berlin, Berlin, Germany",Charlottenburg,SchloÃŸ Charlottenburg,Charlottenburg-Wilm.,Berlin,Berlin,14059,NULL,NULL,DE,Germany,52.51162,13.28833,4
+38635157,t,"Berlin, Berlin, Germany",Charlottenburg,KurfÃ¼rstendamm,Charlottenburg-Wilm.,Berlin,Berlin,10789,NULL,NULL,DE,Germany,52.50148,13.33721,5
+36062993,t,"Berlin, Berlin, Germany",Charlottenburg-Nord,Charlottenburg Nord,Charlottenburg-Wilm.,Berlin,Berlin,13627,NULL,NULL,DE,Germany,52.5359,13.28128,1
+33956498,f,"Berlin, Berlin, Germany",Charlottenburg-Nord,Charlottenburg Nord,Charlottenburg-Wilm.,Berlin,Berlin,13627,NULL,NULL,DE,Germany,52.5405,13.30334,2
+33839226,f,"DE, Germany",Charlottenburg-Nord,Charlottenburg Nord,Charlottenburg-Wilm.,,,,NULL,NULL,DE,Germany,52.5401,13.30061,3
+32659296,t,"Berlin, Berlin, Germany",Charlottenburg-Nord,Charlottenburg Nord,Charlottenburg-Wilm.,Berlin,Berlin,13627,NULL,NULL,DE,Germany,52.53962,13.29983,4
+27709750,t,"Berlin, Berlin, Germany",Charlottenburg-Nord,Charlottenburg Nord,Charlottenburg-Wilm.,Berlin,Berlin,13627,NULL,NULL,DE,Germany,52.53898,13.28195,5
+38861086,t,"Bordeaux, Nouvelle-Aquitaine, France",Chartrons,Bordeaux Maritime,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33300,NULL,NULL,FR,France,44.86374,-0.56009,1
+38835203,t,"Bordeaux, Nouvelle-Aquitaine, France",Chartrons,Bordeaux Maritime,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33300,NULL,NULL,FR,France,44.86423,-0.56183,2
+38753458,t,"Bordeaux, Nouvelle-Aquitaine, France",Chartrons,Chartrons - Grand Parc - Jardin Public,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33000,NULL,NULL,FR,France,44.84976,-0.57158,3
+38716034,t,"Bordeaux, Nouvelle-Aquitaine, France",Chartrons,Chartrons - Grand Parc - Jardin Public,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33000,NULL,NULL,FR,France,44.84971,-0.57244,4
+38716031,t,"Bordeaux, Nouvelle-Aquitaine, France",Chartrons,Chartrons - Grand Parc - Jardin Public,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33000,NULL,NULL,FR,France,44.8515,-0.57103,5
+38644776,t,"Berlin, Berlin, Germany",Dahlem,Zehlendorf  Nord,Steglitz - Zehlendorf,Berlin,Berlin,14195,NULL,NULL,DE,Germany,52.46253,13.28295,1
+38345559,t,"Berlin, Berlin, Germany",Dahlem,Zehlendorf  Nord,Steglitz - Zehlendorf,Berlin,Berlin,14195,NULL,NULL,DE,Germany,52.44953,13.27578,2
+35970527,t,"Berlin, Berlin, Germany",Dahlem,Zehlendorf  Nord,Steglitz - Zehlendorf,Berlin,Berlin,14195,NULL,NULL,DE,Germany,52.45065,13.29347,3
+35230530,t,"Berlin, Berlin, Germany",Dahlem,Zehlendorf  Nord,Steglitz - Zehlendorf,Berlin,Berlin,14195,NULL,NULL,DE,Germany,52.45232,13.27271,4
+33846826,f,"Berlin, Berlin, Germany",Dahlem,Zehlendorf  Nord,Steglitz - Zehlendorf,Berlin,Berlin,,NULL,NULL,DE,Germany,52.46468,13.29272,5
+38593517,t,"Amsterdam, Noord-Holland, Netherlands",De Pijp,De Pijp - Rivierenbuurt,,Amsterdam,Noord-Holland,1072 EZ,NULL,NULL,NL,Netherlands,52.35249,4.891,1
+38560970,t,"Amsterdam, Noord-Holland, Netherlands",De Pijp,De Pijp - Rivierenbuurt,,Amsterdam,Noord-Holland,1074 TZ,NULL,NULL,NL,Netherlands,52.35182,4.90615,2
+38459144,f,"Amsterdam, Noord-Holland, Netherlands",De Pijp,De Pijp - Rivierenbuurt,,Amsterdam,Noord-Holland,1072 EL,NULL,NULL,NL,Netherlands,52.35501,4.88752,3
+38120784,t,"Amsterdam, Noord-Holland, Netherlands",De Pijp,De Pijp - Rivierenbuurt,,Amsterdam,Noord-Holland,1074 BB,NULL,NULL,NL,Netherlands,52.35859,4.90314,4
+38091248,t,"Amsterdam, Noord-Holland, Netherlands",De Pijp,De Pijp - Rivierenbuurt,,Amsterdam,Noord-Holland,1074 AA,NULL,NULL,NL,Netherlands,52.35733,4.9005,5
+38532844,f,"Amsterdam, North Holland, Netherlands",De Wallen,Centrum-West,,Amsterdam,North Holland,,NULL,NULL,NL,Netherlands,52.36786,4.89407,1
+37895115,f,"Amsterdam, Noord-Holland, Netherlands",De Wallen,Centrum-West,,Amsterdam,Noord-Holland,1012 CE,NULL,NULL,NL,Netherlands,52.37205,4.89679,2
+37791516,t,"Amsterdam, Noord-Holland, Netherlands",De Wallen,Centrum-West,,Amsterdam,Noord-Holland,1012 JV,NULL,NULL,NL,Netherlands,52.3754,4.89736,3
+37761691,f,"Amsterdam, Noord-Holland, Netherlands",De Wallen,Centrum-West,,Amsterdam,Noord-Holland,1012 GP,NULL,NULL,NL,Netherlands,52.37408,4.89933,4
+37631417,f,"Amsterdam, NH, Netherlands",De Wallen,Centrum-West,,Amsterdam,NH,1012 BZ,NULL,NULL,NL,Netherlands,52.37277,4.89795,5
+34336022,t,"Berlin, Berlin, Germany",Falkenberg,"Malchow, Wartenberg und Falkenberg",Lichtenberg,Berlin,Berlin,13057,NULL,NULL,DE,Germany,52.57829,13.56128,1
+20711836,t,"Berlin, Berlin, Germany",Falkenberg,"Malchow, Wartenberg und Falkenberg",Lichtenberg,Berlin,Berlin,13057,NULL,NULL,DE,Germany,52.57322,13.55891,2
+13465012,t,"Berlin, Berlin, Germany",Falkenberg,"Malchow, Wartenberg und Falkenberg",Lichtenberg,Berlin,Berlin,13057,NULL,NULL,DE,Germany,52.57778,13.5596,3
+38144389,t,"Berlin, Berlin, Germany",Falkenhagener Feld,Falkenhagener Feld,Spandau,Berlin,Berlin,13589,NULL,NULL,DE,Germany,52.56018,13.15647,1
+37218744,t,"Berlin, Berlin, Germany",Falkenhagener Feld,Falkenhagener Feld,Spandau,Berlin,Berlin,13583,NULL,NULL,DE,Germany,52.54055,13.18074,2
+36996985,f,"Berlin, Berlin, Germany",Falkenhagener Feld,Falkenhagener Feld,Spandau,Berlin,Berlin,13589,NULL,NULL,DE,Germany,52.55241,13.16598,3
+36930773,t,"Berlin, Berlin, Germany",Falkenhagener Feld,Falkenhagener Feld,Spandau,Berlin,Berlin,13589,NULL,NULL,DE,Germany,52.55227,13.16743,4
+34595902,t,"Berlin, Berlin, Germany",Falkenhagener Feld,Falkenhagener Feld,Spandau,Berlin,Berlin,13589,NULL,NULL,DE,Germany,52.54637,13.15046,5
+38253010,t,"Berlin, Berlin, Germany",Fennpfuhl,Fennpfuhl,Lichtenberg,Berlin,Berlin,10367,NULL,NULL,DE,Germany,52.53165,13.47995,1
+37974861,t,"Berlin, Berlin, Germany",Fennpfuhl,Fennpfuhl,Lichtenberg,Berlin,Berlin,10367,NULL,NULL,DE,Germany,52.52594,13.48008,2
+37829946,t,"Berlin, Berlin, Germany",Fennpfuhl,Fennpfuhl,Lichtenberg,Berlin,Berlin,10367,NULL,NULL,DE,Germany,52.53062,13.47825,3
+37559709,t,"Berlin, Berlin, Germany",Fennpfuhl,Fennpfuhl,Lichtenberg,Berlin,Berlin,10369,NULL,NULL,DE,Germany,52.52533,13.47027,4
+37352766,t,"Berlin, Berlin, Germany",Fennpfuhl,Fennpfuhl,Lichtenberg,Berlin,Berlin,10369,NULL,NULL,DE,Germany,52.52434,13.46449,5
+38092878,t,"Berlin, Berlin, Germany",FranzÃ¶sisch Buchholz,Buchholz,Pankow,Berlin,Berlin,13127,NULL,NULL,DE,Germany,52.61209,13.42854,1
+34596605,f,"Berlin, Berlin, Germany",FranzÃ¶sisch Buchholz,Buchholz,Pankow,Berlin,Berlin,13127,NULL,NULL,DE,Germany,52.61052,13.43951,2
+31082613,t,"Berlin, Berlin, Germany",FranzÃ¶sisch Buchholz,Buchholz,Pankow,Berlin,Berlin,13127,NULL,NULL,DE,Germany,52.60542,13.42204,3
+30457599,t,"Berlin, Berlin, Germany",FranzÃ¶sisch Buchholz,Buchholz,Pankow,Berlin,Berlin,13127,NULL,NULL,DE,Germany,52.60547,13.42175,4
+28758037,f,"Berlin, Germany",FranzÃ¶sisch Buchholz,Buchholz,Pankow,Berlin,,13127,NULL,NULL,DE,Germany,52.5982,13.43464,5
+38535377,t,"Amsterdam, Noord-Holland, Netherlands",Frederik Hendrikbuurt,Westerpark,,Amsterdam,Noord-Holland,1052 KX,NULL,NULL,NL,Netherlands,52.37579,4.87341,1
+38479737,t,"Amsterdam, Noord-Holland, Netherlands",Frederik Hendrikbuurt,Westerpark,,Amsterdam,Noord-Holland,1052 EM,NULL,NULL,NL,Netherlands,52.37806,4.87484,2
+38455787,t,"Amsterdam, Noord-Holland, Netherlands",Frederik Hendrikbuurt,Westerpark,,Amsterdam,Noord-Holland,1052 LM,NULL,NULL,NL,Netherlands,52.37463,4.87361,3
+38424114,f,"Amsterdam, NH, Netherlands",Frederik Hendrikbuurt,Westerpark,,Amsterdam,NH,1052ST,NULL,NULL,NL,Netherlands,52.37291,4.86932,4
+38421464,t,"Amsterdam, Noord-Holland, Netherlands",Frederik Hendrikbuurt,Westerpark,,Amsterdam,Noord-Holland,1052 JS,NULL,NULL,NL,Netherlands,52.37613,4.87623,5
+38719036,f,"Berlin, Berlin, Germany",Friedenau,Friedenau,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12161,NULL,NULL,DE,Germany,52.47047,13.32894,1
+38381864,t,"Berlin, Berlin, Germany",Friedenau,Friedenau,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12161,NULL,NULL,DE,Germany,52.46614,13.32696,2
+38170390,t,"Berlin, Berlin, Germany",Friedenau,Friedenau,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12159,NULL,NULL,DE,Germany,52.47162,13.33354,3
+38148150,t,"Berlin, Berlin, Germany",Friedenau,Friedenau,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12159,NULL,NULL,DE,Germany,52.47032,13.33463,4
+38145894,t,"Berlin, Berlin, Germany",Friedenau,Friedenau,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12159,NULL,NULL,DE,Germany,52.47,13.33388,5
+38616732,f,"Berlin, Germany",Friedrichsfelde,Friedrichsfelde Nord,Lichtenberg,Berlin,,10315,NULL,NULL,DE,Germany,52.50926,13.52095,1
+38379151,t,"Berlin, Berlin, Germany",Friedrichsfelde,Friedrichsfelde Nord,Lichtenberg,Berlin,Berlin,10315,NULL,NULL,DE,Germany,52.51039,13.5134,2
+37833090,t,"Berlin, Berlin, Germany",Friedrichsfelde,Friedrichsfelde Nord,Lichtenberg,Berlin,Berlin,10319,NULL,NULL,DE,Germany,52.50271,13.52242,3
+37485068,t,"Berlin, Berlin, Germany",Friedrichsfelde,Neu Lichtenberg,Lichtenberg,Berlin,Berlin,10315,NULL,NULL,DE,Germany,52.50191,13.50004,4
+37447297,f,"Berlin, Berlin, Germany",Friedrichsfelde,Neu Lichtenberg,Lichtenberg,Berlin,Berlin,,NULL,NULL,DE,Germany,52.50918,13.51333,5
+36220479,f,"Berlin, Berlin, Germany",Friedrichshagen,Friedrichshagen,Treptow - KÃ¶penick,Berlin,Berlin,12587,NULL,NULL,DE,Germany,52.46116,13.64017,1
+35159493,t,"Berlin, Berlin, Germany",Friedrichshagen,Friedrichshagen,Treptow - KÃ¶penick,Berlin,Berlin,12587,NULL,NULL,DE,Germany,52.45325,13.6294,2
+33906265,t,"Berlin, Berlin, Germany",Friedrichshagen,Friedrichshagen,Treptow - KÃ¶penick,Berlin,Berlin,12587,NULL,NULL,DE,Germany,52.45405,13.62932,3
+32856806,t,"Berlin, Berlin, Germany",Friedrichshagen,Friedrichshagen,Treptow - KÃ¶penick,Berlin,Berlin,12587,NULL,NULL,DE,Germany,52.44597,13.61437,4
+25955068,t,"Berlin, Berlin, Germany",Friedrichshagen,Friedrichshagen,Treptow - KÃ¶penick,Berlin,Berlin,12587,NULL,NULL,DE,Germany,52.45052,13.62434,5
+38729217,t,"Berlin, Berlin, Germany",Friedrichshain,Frankfurter Allee SÃ¼d FK,Friedrichshain-Kreuzberg,Berlin,Berlin,10245,NULL,NULL,DE,Germany,52.506,13.46474,1
+38728496,f,"Berlin, Berlin, Germany",Friedrichshain,Prenzlauer Berg Ost,Pankow,Berlin,Berlin,10247,NULL,NULL,DE,Germany,52.52015,13.46541,2
+38727580,t,"Berlin, Berlin, Germany",Friedrichshain,Frankfurter Allee SÃ¼d FK,Friedrichshain-Kreuzberg,Berlin,Berlin,10247,NULL,NULL,DE,Germany,52.51502,13.45881,3
+38726086,t,"Berlin, Berlin, Germany",Friedrichshain,Frankfurter Allee Nord,Friedrichshain-Kreuzberg,Berlin,Berlin,10247,NULL,NULL,DE,Germany,52.51604,13.45998,4
+38715420,f,"Berlin, Berlin, Germany",Friedrichshain,Frankfurter Allee Nord,Friedrichshain-Kreuzberg,Berlin,Berlin,10247,NULL,NULL,DE,Germany,52.51673,13.46784,5
+37695252,t,"Berlin, Berlin, Germany",Frohnau,Nord 1,Reinickendorf,Berlin,Berlin,13465,NULL,NULL,DE,Germany,52.65663,13.2983,1
+30495280,t,"Berlin, Berlin, Germany",Frohnau,Nord 1,Reinickendorf,Berlin,Berlin,13465,NULL,NULL,DE,Germany,52.63967,13.29589,2
+26024313,t,"Berlin, Berlin, Germany",Frohnau,Nord 1,Reinickendorf,Berlin,Berlin,13465,NULL,NULL,DE,Germany,52.64141,13.29422,3
+23786884,t,"Berlin, Berlin, Germany",Frohnau,Nord 1,Reinickendorf,Berlin,Berlin,13465,NULL,NULL,DE,Germany,52.63189,13.26508,4
+21222071,t,"Berlin, Berlin, Germany",Frohnau,Nord 1,Reinickendorf,Berlin,Berlin,13465,NULL,NULL,DE,Germany,52.63487,13.27824,5
+16939260,t,"Berlin, Berlin, Germany",Gatow,Gatow / Kladow,Spandau,Berlin,Berlin,14089,NULL,NULL,DE,Germany,52.4922,13.18143,1
+38343050,t,"Berlin, Berlin, Germany",GrÃ¼nau,GrÃ¼nau,Treptow - KÃ¶penick,Berlin,Berlin,12527,NULL,NULL,DE,Germany,52.42406,13.57447,1
+38343048,t,"Berlin, Berlin, Germany",GrÃ¼nau,GrÃ¼nau,Treptow - KÃ¶penick,Berlin,Berlin,12527,NULL,NULL,DE,Germany,52.42584,13.57388,2
+38343024,t,"Berlin, Berlin, Germany",GrÃ¼nau,GrÃ¼nau,Treptow - KÃ¶penick,Berlin,Berlin,12527,NULL,NULL,DE,Germany,52.4257,13.57453,3
+36748398,t,"Berlin, Berlin, Germany",GrÃ¼nau,GrÃ¼nau,Treptow - KÃ¶penick,Berlin,Berlin,12527,NULL,NULL,DE,Germany,52.42601,13.57369,4
+22195977,t,"Berlin, Berlin, Germany",GrÃ¼nau,GrÃ¼nau,Treptow - KÃ¶penick,Berlin,Berlin,12527,NULL,NULL,DE,Germany,52.42684,13.56868,5
+38599068,t,"Amsterdam, Noord-Holland, Netherlands",Grachtengordel,Centrum-Oost,,Amsterdam,Noord-Holland,1017 RN,NULL,NULL,NL,Netherlands,52.36191,4.88957,1
+38598343,t,"Amsterdam, Noord-Holland, Netherlands",Grachtengordel,Centrum-Oost,,Amsterdam,Noord-Holland,1017 JZ,NULL,NULL,NL,Netherlands,52.36307,4.88665,2
+38597848,t,"Amsterdam, Noord-Holland, Netherlands",Grachtengordel,Centrum-West,,Amsterdam,Noord-Holland,1015 AG,NULL,NULL,NL,Netherlands,52.37606,4.88895,3
+38511913,f,"Amsterdam, Noord-Holland, Netherlands",Grachtengordel,Centrum-Oost,,Amsterdam,Noord-Holland,1017 TL,NULL,NULL,NL,Netherlands,52.36096,4.88742,4
+38486645,t,"Amsterdam, Noord-Holland, Netherlands",Grachtengordel,Centrum-Oost,,Amsterdam,Noord-Holland,1017 DA,NULL,NULL,NL,Netherlands,52.36527,4.89993,5
+37877124,t,"Berlin, Berlin, Germany",Gropiusstadt,Gropiusstadt,NeukÃ¶lln,Berlin,Berlin,12351,NULL,NULL,DE,Germany,52.43313,13.45464,1
+35021446,f,"Berlin, Berlin, Germany",Gropiusstadt,Gropiusstadt,NeukÃ¶lln,Berlin,Berlin,12351,NULL,NULL,DE,Germany,52.43156,13.45323,2
+32436996,t,"Berlin, Berlin, Germany",Gropiusstadt,Gropiusstadt,NeukÃ¶lln,Berlin,Berlin,12353,NULL,NULL,DE,Germany,52.42377,13.4832,3
+29678082,t,"Berlin, Berlin, Germany",Gropiusstadt,Gropiusstadt,NeukÃ¶lln,Berlin,Berlin,12353,NULL,NULL,DE,Germany,52.42871,13.46029,4
+28453507,t,"Berlin, Berlin, Germany",Gropiusstadt,Gropiusstadt,NeukÃ¶lln,Berlin,Berlin,12353,NULL,NULL,DE,Germany,52.42265,13.47738,5
+38170374,t,"Berlin, Berlin, Germany",Grunewald,Forst Grunewald,Charlottenburg-Wilm.,Berlin,Berlin,14055,NULL,NULL,DE,Germany,52.50189,13.20964,1
+37107829,f,"Berlin, Berlin, Germany",Grunewald,Grunewald,Charlottenburg-Wilm.,Berlin,Berlin,14193,NULL,NULL,DE,Germany,52.49193,13.27311,2
+36929617,t,"Berlin, Berlin, Germany",Grunewald,Halensee,Charlottenburg-Wilm.,Berlin,Berlin,10711,NULL,NULL,DE,Germany,52.49751,13.28424,3
+36617647,f,"Berlin, Berlin, Germany",Grunewald,Grunewald,Charlottenburg-Wilm.,Berlin,Berlin,14193,NULL,NULL,DE,Germany,52.48782,13.28635,4
+35082218,t,"Berlin, Berlin, Germany",Grunewald,Halensee,Charlottenburg-Wilm.,Berlin,Berlin,10711,NULL,NULL,DE,Germany,52.49707,13.28699,5
+38835952,t,"Bordeaux, Nouvelle-Aquitaine, France",HÃ´tel de Ville - Quinconces,Centre ville (Bordeaux),Bordeaux,Bordeaux,Nouvelle-Aquitaine,33000,NULL,NULL,FR,France,44.84654,-0.58095,1
+38830100,t,"Bordeaux, Nouvelle-Aquitaine, France",HÃ´tel de Ville - Quinconces,Centre ville (Bordeaux),Bordeaux,Bordeaux,Nouvelle-Aquitaine,33000,NULL,NULL,FR,France,44.84107,-0.57902,2
+38822063,t,"Bordeaux, Nouvelle-Aquitaine, France",HÃ´tel de Ville - Quinconces,Chartrons - Grand Parc - Jardin Public,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33000,NULL,NULL,FR,France,44.84632,-0.57911,3
+38726503,f,"Bordeaux, France",HÃ´tel de Ville - Quinconces,Centre ville (Bordeaux),Bordeaux,Bordeaux,,33000,NULL,NULL,FR,France,44.84061,-0.57375,4
+38712460,f,"Bordeaux, Nouvelle-Aquitaine, France",HÃ´tel de Ville - Quinconces,Centre ville (Bordeaux),Bordeaux,Bordeaux,Nouvelle-Aquitaine,33000,NULL,NULL,FR,France,44.84575,-0.57547,5
+38720233,t,"Berlin, Berlin, Germany",Hakenfelde,Hakenfelde,Spandau,Berlin,Berlin,13587,NULL,NULL,DE,Germany,52.56359,13.20849,1
+38516976,t,"Berlin, Berlin, Germany",Hakenfelde,Hakenfelde,Spandau,Berlin,Berlin,13587,NULL,NULL,DE,Germany,52.56114,13.2228,2
+37846100,t,"Berlin, Berlin, Germany",Hakenfelde,Hakenfelde,Spandau,Berlin,Berlin,13589,NULL,NULL,DE,Germany,52.56424,13.18199,3
+35556273,t,"Berlin, Berlin, Germany",Hakenfelde,Spandau Mitte,Spandau,Berlin,Berlin,13587,NULL,NULL,DE,Germany,52.55296,13.2142,4
+35537043,f,"Berlin, Berlin, Germany",Hakenfelde,Spandau Mitte,Spandau,Berlin,Berlin,13585,NULL,NULL,DE,Germany,52.54615,13.21687,5
+38538067,t,"Berlin, Berlin, Germany",Halensee,Halensee,Charlottenburg-Wilm.,Berlin,Berlin,10711,NULL,NULL,DE,Germany,52.49832,13.28977,1
+38261295,t,"Berlin, Berlin, Germany",Halensee,Halensee,Charlottenburg-Wilm.,Berlin,Berlin,10711,NULL,NULL,DE,Germany,52.50035,13.29029,2
+37652331,t,"Berlin, Berlin, Germany",Halensee,Halensee,Charlottenburg-Wilm.,Berlin,Berlin,10709,NULL,NULL,DE,Germany,52.4979,13.299,3
+37172543,f,"Berlin, Berlin, Germany",Halensee,Halensee,Charlottenburg-Wilm.,Berlin,Berlin,10711,NULL,NULL,DE,Germany,52.49584,13.29521,4
+37171754,f,"Berlin, Berlin, Germany",Halensee,Halensee,Charlottenburg-Wilm.,Berlin,Berlin,10711,NULL,NULL,DE,Germany,52.49576,13.29525,5
+38608300,t,"Berlin, Berlin, Germany",Hansaviertel,Moabit Ost,Mitte,Berlin,Berlin,10555,NULL,NULL,DE,Germany,52.51986,13.34241,1
+38515921,t,"Berlin, Berlin, Germany",Hansaviertel,Moabit Ost,Mitte,Berlin,Berlin,10555,NULL,NULL,DE,Germany,52.51565,13.33493,2
+37964713,t,"Berlin, Berlin, Germany",Hansaviertel,Moabit Ost,Mitte,Berlin,Berlin,10555,NULL,NULL,DE,Germany,52.51693,13.33597,3
+36638902,t,"Berlin, Berlin, Germany",Hansaviertel,Moabit Ost,Mitte,Berlin,Berlin,10557,NULL,NULL,DE,Germany,52.51597,13.33967,4
+36057589,t,"Berlin, Berlin, Germany",Hansaviertel,Moabit Ost,Mitte,Berlin,Berlin,10555,NULL,NULL,DE,Germany,52.52044,13.34159,5
+38418920,t,"Berlin, Berlin, Germany",Haselhorst,Haselhorst,Spandau,Berlin,Berlin,13599,NULL,NULL,DE,Germany,52.54531,13.23776,1
+34365674,f,"Berlin, Berlin, Germany",Haselhorst,Haselhorst,Spandau,Berlin,Berlin,13599,NULL,NULL,DE,Germany,52.55613,13.2228,2
+28949497,f,"Berlin, Berlin, Germany",Haselhorst,Haselhorst,Spandau,Berlin,Berlin,13599,NULL,NULL,DE,Germany,52.55415,13.22675,3
+20839690,t,"Berlin, Berlin, Germany",Haselhorst,Haselhorst,Spandau,Berlin,Berlin,13599,NULL,NULL,DE,Germany,52.54119,13.23583,4
+10941394,f,"Berlin, Berlin, Germany",Haselhorst,Haselhorst,Spandau,Berlin,Berlin,13599,NULL,NULL,DE,Germany,52.55641,13.22258,5
+38723910,f,"Berlin, Berlin, Germany",Heiligensee,West 2,Reinickendorf,Berlin,Berlin,13503,NULL,NULL,DE,Germany,52.60105,13.2469,1
+38238850,f,"Berlin, Berlin, Germany",Heiligensee,West 2,Reinickendorf,Berlin,Berlin,13503,NULL,NULL,DE,Germany,52.61358,13.24567,2
+37454876,t,"Berlin, Berlin, Germany",Heiligensee,West 2,Reinickendorf,Berlin,Berlin,13503,NULL,NULL,DE,Germany,52.62178,13.24039,3
+35815187,t,"Berlin, Berlin, Germany",Heiligensee,West 2,Reinickendorf,Berlin,Berlin,13503,NULL,NULL,DE,Germany,52.61979,13.23865,4
+34550155,f,"Berlin, Berlin, Germany",Heiligensee,West 2,Reinickendorf,Berlin,Berlin,13503,NULL,NULL,DE,Germany,52.6173,13.23763,5
+36668439,t,"Berlin, Berlin, Germany",Heinersdorf,Blankenburg/Heinersdorf/MÃ¤rchenland,Pankow,Berlin,Berlin,13089,NULL,NULL,DE,Germany,52.57085,13.43616,1
+32610651,t,"Berlin, Berlin, Germany",Heinersdorf,Blankenburg/Heinersdorf/MÃ¤rchenland,Pankow,Berlin,Berlin,13089,NULL,NULL,DE,Germany,52.56884,13.43656,2
+30863127,f,"Berlin, Weissensee, Germany",Heinersdorf,Blankenburg/Heinersdorf/MÃ¤rchenland,Pankow,Berlin,Weissensee,13089,NULL,NULL,DE,Germany,52.57487,13.43766,3
+25673434,f,"Berlin, Berlin, Germany",Heinersdorf,Blankenburg/Heinersdorf/MÃ¤rchenland,Pankow,Berlin,Berlin,13089,NULL,NULL,DE,Germany,52.57389,13.45685,4
+25615705,t,"Berlin, Berlin, Germany",Heinersdorf,Blankenburg/Heinersdorf/MÃ¤rchenland,Pankow,Berlin,Berlin,13089,NULL,NULL,DE,Germany,52.57047,13.43654,5
+38615164,t,"Berlin, Berlin, Germany",Hellersdorf,Hellersdorf-Nord,Marzahn - Hellersdorf,Berlin,Berlin,12629,NULL,NULL,DE,Germany,52.54604,13.59105,1
+32972361,t,"Berlin, Berlin, Germany",Hellersdorf,Hellersdorf-Nord,Marzahn - Hellersdorf,Berlin,Berlin,12629,NULL,NULL,DE,Germany,52.53757,13.58739,2
+30009985,t,"Berlin, Berlin, Germany",Hellersdorf,Hellersdorf-Nord,Marzahn - Hellersdorf,Berlin,Berlin,12627,NULL,NULL,DE,Germany,52.53894,13.60374,3
+27349126,t,"Berlin, Berlin, Germany",Hellersdorf,Hellersdorf-SÃ¼d,Marzahn - Hellersdorf,Berlin,Berlin,12619,NULL,NULL,DE,Germany,52.52453,13.58454,4
+26313251,t,"Berlin, Berlin, Germany",Hellersdorf,Hellersdorf-SÃ¼d,Marzahn - Hellersdorf,Berlin,Berlin,12619,NULL,NULL,DE,Germany,52.51978,13.58573,5
+37957216,t,"Berlin, Berlin, Germany",Hermsdorf,Nord 1,Reinickendorf,Berlin,Berlin,13467,NULL,NULL,DE,Germany,52.61996,13.29673,1
+37867001,t,"Berlin, Berlin, Germany",Hermsdorf,Nord 1,Reinickendorf,Berlin,Berlin,13467,NULL,NULL,DE,Germany,52.6237,13.32733,2
+37205682,t,"Berlin, Berlin, Germany",Hermsdorf,Nord 1,Reinickendorf,Berlin,Berlin,13467,NULL,NULL,DE,Germany,52.60375,13.28899,3
+37139216,t,"Berlin, Berlin, Germany",Hermsdorf,Nord 1,Reinickendorf,Berlin,Berlin,13467,NULL,NULL,DE,Germany,52.62062,13.30842,4
+36302634,f,"Berlin, Germany",Hermsdorf,Nord 1,Reinickendorf,Berlin,,13467,NULL,NULL,DE,Germany,52.62305,13.29263,5
+38505803,t,"Amsterdam, Noord-Holland, Netherlands",Hoofddorppleinbuurt,Zuid,,Amsterdam,Noord-Holland,1058 TN,NULL,NULL,NL,Netherlands,52.35437,4.84653,1
+38303156,t,"Amsterdam, Noord-Holland, Netherlands",Hoofddorppleinbuurt,Zuid,,Amsterdam,Noord-Holland,1059 BB,NULL,NULL,NL,Netherlands,52.34938,4.84771,2
+38224270,t,"Amsterdam, Noord-Holland, Netherlands",Hoofddorppleinbuurt,Zuid,,Amsterdam,Noord-Holland,1059 XG,NULL,NULL,NL,Netherlands,52.34979,4.84786,3
+37966247,t,"Amsterdam, Noord-Holland, Netherlands",Hoofddorppleinbuurt,Zuid,,Amsterdam,Noord-Holland,1058 HD,NULL,NULL,NL,Netherlands,52.35677,4.8528,4
+37866449,f,"Amsterdam, North Holland, Netherlands",Hoofddorppleinbuurt,Zuid,,Amsterdam,North Holland,1058 SW,NULL,NULL,NL,Netherlands,52.35361,4.8515,5
+38506045,t,"Amsterdam, Noord-Holland, Netherlands",IJplein en Vogelbuurt,Oud-Noord,,Amsterdam,Noord-Holland,1022 XX,NULL,NULL,NL,Netherlands,52.38669,4.9288,1
+38203494,t,"Amsterdam, Noord-Holland, Netherlands",IJplein en Vogelbuurt,Oud-Noord,,Amsterdam,Noord-Holland,1021,NULL,NULL,NL,Netherlands,52.38444,4.91243,2
+37550190,t,"Amsterdam, Noord-Holland, Netherlands",IJplein en Vogelbuurt,Oud-Noord,,Amsterdam,Noord-Holland,1022 AM,NULL,NULL,NL,Netherlands,52.39104,4.92753,3
+37276194,t,"Amsterdam, Noord-Holland, Netherlands",IJplein en Vogelbuurt,Oud-Noord,,Amsterdam,Noord-Holland,1021 GL,NULL,NULL,NL,Netherlands,52.38386,4.91453,4
+37165020,t,"Amsterdam, Noord-Holland, Netherlands",IJplein en Vogelbuurt,Oud-Noord,,Amsterdam,Noord-Holland,1025 LR,NULL,NULL,NL,Netherlands,52.39068,4.92943,5
+38600324,t,"Amsterdam, Noord-Holland, Netherlands",Indische Buurt,Oostelijk Havengebied - Indische Buurt,,Amsterdam,Noord-Holland,1094 EM,NULL,NULL,NL,Netherlands,52.36361,4.93249,1
+38573566,t,"Amsterdam, Noord-Holland, Netherlands",Indische Buurt,Oostelijk Havengebied - Indische Buurt,,Amsterdam,Noord-Holland,1095 BJ,NULL,NULL,NL,Netherlands,52.35883,4.94127,2
+38567074,t,"Amsterdam, Noord-Holland, Netherlands",Indische Buurt,Oud-Oost,,Amsterdam,Noord-Holland,1093 ZA,NULL,NULL,NL,Netherlands,52.36216,4.92654,3
+38537664,f,"Amsterdam, Noord-Holland, Netherlands",Indische Buurt,Oostelijk Havengebied - Indische Buurt,,Amsterdam,Noord-Holland,1094,NULL,NULL,NL,Netherlands,52.36405,4.93363,4
+38517539,t,"Amsterdam, Noord-Holland, Netherlands",Indische Buurt,Oostelijk Havengebied - Indische Buurt,,Amsterdam,Noord-Holland,1095 AN,NULL,NULL,NL,Netherlands,52.36643,4.94504,5
+37667479,f,"Berlin, Berlin, Germany",Johannisthal,Johannisthal,Treptow - KÃ¶penick,Berlin,Berlin,12487,NULL,NULL,DE,Germany,52.44035,13.49947,1
+37380803,t,"Berlin, Berlin, Germany",Johannisthal,Johannisthal,Treptow - KÃ¶penick,Berlin,Berlin,12487,NULL,NULL,DE,Germany,52.44049,13.50447,2
+36794672,t,"Berlin, Berlin, Germany",Johannisthal,Johannisthal,Treptow - KÃ¶penick,Berlin,Berlin,12487,NULL,NULL,DE,Germany,52.44112,13.50275,3
+36110420,t,"Berlin, Berlin, Germany",Johannisthal,Johannisthal,Treptow - KÃ¶penick,Berlin,Berlin,12487,NULL,NULL,DE,Germany,52.44982,13.5071,4
+35535525,t,"Berlin, Berlin, Germany",Johannisthal,Johannisthal,Treptow - KÃ¶penick,Berlin,Berlin,12487,NULL,NULL,DE,Germany,52.43471,13.50117,5
+38591607,f,"Amsterdam, Noord-Holland, Netherlands",Jordaan,Centrum-West,,Amsterdam,Noord-Holland,1015,NULL,NULL,NL,Netherlands,52.37662,4.88049,1
+38567588,f,"Amsterdam, Noord-Holland, Netherlands",Jordaan,Centrum-West,,Amsterdam,Noord-Holland,1016 RN,NULL,NULL,NL,Netherlands,52.37058,4.88134,2
+38536786,t,"Amsterdam, Noord-Holland, Netherlands",Jordaan,Centrum-West,,Amsterdam,Noord-Holland,1015 HM,NULL,NULL,NL,Netherlands,52.38121,4.88331,3
+38510902,f,"Amsterdam, Noord-Holland, Netherlands",Jordaan,Centrum-West,,Amsterdam,Noord-Holland,1016 KX,NULL,NULL,NL,Netherlands,52.37302,4.87878,4
+38466963,f,"Amsterdam, NH, Netherlands",Jordaan,Centrum-West,,Amsterdam,NH,1015 NH,NULL,NULL,NL,Netherlands,52.37912,4.88653,5
+38588253,t,"Berlin, Berlin, Germany",KÃ¶penick,Dammvorstadt,Treptow - KÃ¶penick,Berlin,Berlin,12555,NULL,NULL,DE,Germany,52.45532,13.57048,1
+37677808,f,"Berlin, Berlin, Germany",KÃ¶penick,KÃ¶penick-Nord,Treptow - KÃ¶penick,Berlin,Berlin,12555,NULL,NULL,DE,Germany,52.4669,13.57661,2
+37371767,t,"Berlin, Berlin, Germany",KÃ¶penick,Altstadt-Kietz,Treptow - KÃ¶penick,Berlin,Berlin,12555,NULL,NULL,DE,Germany,52.44321,13.58226,3
+37087057,f,"Berlin, Berlin, Germany",KÃ¶penick,Dammvorstadt,Treptow - KÃ¶penick,Berlin,Berlin,12555,NULL,NULL,DE,Germany,52.45169,13.58396,4
+36784104,t,"Berlin, Berlin, Germany",KÃ¶penick,KÃ¶lln. Vorstadt/Spindlersf.,Treptow - KÃ¶penick,Berlin,Berlin,12557,NULL,NULL,DE,Germany,52.44283,13.5685,5
+36861325,t,"Amsterdam, Noord-Holland, Netherlands",Kadoelen,Noord-West,,Amsterdam,Noord-Holland,1035 NS,NULL,NULL,NL,Netherlands,52.4144,4.9076,1
+36501489,t,"Amsterdam, Noord-Holland, Netherlands",Kadoelen,Noord-West,,Amsterdam,Noord-Holland,1035 XC,NULL,NULL,NL,Netherlands,52.42017,4.90372,2
+36496919,f,"Amsterdam, NH, Netherlands",Kadoelen,Noord-West,,Amsterdam,NH,1035 NS,NULL,NULL,NL,Netherlands,52.41187,4.90878,3
+36481981,t,"Amsterdam, Noord-Holland, Netherlands",Kadoelen,Noord-West,,Amsterdam,Noord-Holland,1035 TS,NULL,NULL,NL,Netherlands,52.41708,4.89856,4
+36259851,t,"Amsterdam, Noord-Holland, Netherlands",Kadoelen,Noord-West,,Amsterdam,Noord-Holland,1035 NT,NULL,NULL,NL,Netherlands,52.41353,4.90842,5
+38372805,t,"Berlin, Berlin, Germany",Karlshorst,Karlshorst,Lichtenberg,Berlin,Berlin,10318,NULL,NULL,DE,Germany,52.48872,13.51597,1
+38371847,t,"Berlin, Berlin, Germany",Karlshorst,Karlshorst,Lichtenberg,Berlin,Berlin,10318,NULL,NULL,DE,Germany,52.48898,13.5166,2
+38290291,f,"Berlin, Berlin, Germany",Karlshorst,Karlshorst,Lichtenberg,Berlin,Berlin,10318,NULL,NULL,DE,Germany,52.48446,13.51211,3
+38143646,t,"Berlin, Berlin, Germany",Karlshorst,Karlshorst,Lichtenberg,Berlin,Berlin,10318,NULL,NULL,DE,Germany,52.49229,13.5406,4
+37386177,t,"Berlin, Berlin, Germany",Karlshorst,Karlshorst,Lichtenberg,Berlin,Berlin,10318,NULL,NULL,DE,Germany,52.47531,13.53413,5
+35730968,t,"Berlin, Berlin, Germany",Karow,Karow,Pankow,Berlin,Berlin,13125,NULL,NULL,DE,Germany,52.61575,13.49266,1
+34136640,f,"Berlin, Berlin, Germany",Karow,Karow,Pankow,Berlin,Berlin,13125,NULL,NULL,DE,Germany,52.62182,13.48433,2
+34098919,f,"Berlin, Berlin, Germany",Karow,Karow,Pankow,Berlin,Berlin,13125,NULL,NULL,DE,Germany,52.62378,13.48555,3
+33514056,t,"Berlin, Berlin, Germany",Karow,Karow,Pankow,Berlin,Berlin,13125,NULL,NULL,DE,Germany,52.6155,13.49165,4
+31433214,t,"Berlin, Berlin, Germany",Karow,Karow,Pankow,Berlin,Berlin,13125,NULL,NULL,DE,Germany,52.6077,13.46596,5
+37199004,f,"Berlin, Berlin, Germany",Kaulsdorf,Kaulsdorf,Marzahn - Hellersdorf,Berlin,Berlin,12621,NULL,NULL,DE,Germany,52.50482,13.58801,1
+36940264,t,"Berlin, Berlin, Germany",Kaulsdorf,Kaulsdorf,Marzahn - Hellersdorf,Berlin,Berlin,12621,NULL,NULL,DE,Germany,52.49796,13.57943,2
+31814254,t,"Berlin, Berlin, Germany",Kaulsdorf,Kaulsdorf,Marzahn - Hellersdorf,Berlin,Berlin,12619,NULL,NULL,DE,Germany,52.51948,13.60137,3
+29752224,t,"Berlin, Berlin, Germany",Kaulsdorf,Kaulsdorf,Marzahn - Hellersdorf,Berlin,Berlin,12621,NULL,NULL,DE,Germany,52.50063,13.57979,4
+26177003,t,"Berlin, Berlin, Germany",Kaulsdorf,Kaulsdorf,Marzahn - Hellersdorf,Berlin,Berlin,12621,NULL,NULL,DE,Germany,52.50121,13.58005,5
+37878992,f,"Berlin, Germany",Kladow,Gatow / Kladow,Spandau,Berlin,,14089,NULL,NULL,DE,Germany,52.44617,13.13103,1
+37844904,t,"Berlin, Berlin, Germany",Kladow,Gatow / Kladow,Spandau,Berlin,Berlin,14089,NULL,NULL,DE,Germany,52.44623,13.13116,2
+31611437,t,"Berlin, Berlin, Germany",Kladow,Gatow / Kladow,Spandau,Berlin,Berlin,14089,NULL,NULL,DE,Germany,52.45659,13.11645,3
+26265714,t,"Berlin, Berlin, Germany",Kladow,Gatow / Kladow,Spandau,Berlin,Berlin,14089,NULL,NULL,DE,Germany,52.47028,13.1214,4
+24914743,t,"Berlin, Berlin, Germany",Kladow,Gatow / Kladow,Spandau,Berlin,Berlin,14089,NULL,NULL,DE,Germany,52.45766,13.1461,5
+34835867,t,"Berlin, Berlin, Germany",KonradshÃ¶he,West 2,Reinickendorf,Berlin,Berlin,13505,NULL,NULL,DE,Germany,52.585,13.22406,1
+15001954,t,"Berlin, Berlin, Germany",KonradshÃ¶he,West 2,Reinickendorf,Berlin,Berlin,13505,NULL,NULL,DE,Germany,52.57014,13.23234,2
+246007,t,"Berlin, Berlin, Germany",KonradshÃ¶he,West 2,Reinickendorf,Berlin,Berlin,13505,NULL,NULL,DE,Germany,52.58203,13.23072,3
+245991,t,"Berlin, Berlin, Germany",KonradshÃ¶he,West 2,Reinickendorf,Berlin,Berlin,13505,NULL,NULL,DE,Germany,52.58422,13.23114,4
+38715352,t,"Berlin, Berlin, Germany",Kreuzberg,Tempelhofer Vorstadt,Friedrichshain-Kreuzberg,Berlin,Berlin,10967,NULL,NULL,DE,Germany,52.49257,13.42098,1
+38708942,t,"Berlin, Berlin, Germany",Kreuzberg,Tempelhofer Vorstadt,Friedrichshain-Kreuzberg,Berlin,Berlin,10961,NULL,NULL,DE,Germany,52.49428,13.40047,2
+38699022,t,"Berlin, Berlin, Germany",Kreuzberg,sÃ¼dliche Luisenstadt,Friedrichshain-Kreuzberg,Berlin,Berlin,10999,NULL,NULL,DE,Germany,52.49847,13.42321,3
+38698298,t,"Berlin, Berlin, Germany",Kreuzberg,Tempelhofer Vorstadt,Friedrichshain-Kreuzberg,Berlin,Berlin,10961,NULL,NULL,DE,Germany,52.48982,13.40207,4
+38696035,t,"Berlin, Berlin, Germany",Kreuzberg,nÃ¶rdliche Luisenstadt,Friedrichshain-Kreuzberg,Berlin,Berlin,10997,NULL,NULL,DE,Germany,52.4997,13.42702,5
+36499451,t,"Berlin, Berlin, Germany",LÃ¼bars,Nord 2,Reinickendorf,Berlin,Berlin,13469,NULL,NULL,DE,Germany,52.61097,13.37272,1
+35929964,t,"Berlin, Berlin, Germany",LÃ¼bars,Nord 2,Reinickendorf,Berlin,Berlin,13469,NULL,NULL,DE,Germany,52.61135,13.37349,2
+38543286,f,"Amsterdam, NH, Netherlands",Landelijk Noord,IJburg - Zeeburgereiland,,Amsterdam,NH,1095 ME,NULL,NULL,NL,Netherlands,52.37534,4.96437,1
+38338265,f,"Amsterdam, Noord-Holland, Netherlands",Landelijk Noord,IJburg - Zeeburgereiland,,Amsterdam,Noord-Holland,1095 ME,NULL,NULL,NL,Netherlands,52.37554,4.96362,2
+37836573,t,"Amsterdam, Noord-Holland, Netherlands",Landelijk Noord,IJburg - Zeeburgereiland,,Amsterdam,Noord-Holland,1095,NULL,NULL,NL,Netherlands,52.37431,4.96664,3
+36787278,t,"Amsterdam, Noord-Holland, Netherlands",Landelijk Noord,IJburg - Zeeburgereiland,,Amsterdam,Noord-Holland,1095,NULL,NULL,NL,Netherlands,52.37173,4.96832,4
+36697451,f,"Amsterdam, Noord-Holland, Netherlands",Landelijk Noord,IJburg - Zeeburgereiland,,Amsterdam,Noord-Holland,1095,NULL,NULL,NL,Netherlands,52.37356,4.96444,5
+38717419,f,"Berlin, Berlin, Germany",Lankwitz,Lankwitz,Steglitz - Zehlendorf,Berlin,Berlin,12247,NULL,NULL,DE,Germany,52.4324,13.33725,1
+38537213,t,"Berlin, Berlin, Germany",Lankwitz,Lankwitz,Steglitz - Zehlendorf,Berlin,Berlin,12247,NULL,NULL,DE,Germany,52.43634,13.34867,2
+37011052,t,"Berlin, Berlin, Germany",Lankwitz,Lankwitz,Steglitz - Zehlendorf,Berlin,Berlin,12249,NULL,NULL,DE,Germany,52.42948,13.34672,3
+36088506,f,"Berlin, Berlin, Germany",Lankwitz,Lankwitz,Steglitz - Zehlendorf,Berlin,Berlin,12247,NULL,NULL,DE,Germany,52.43476,13.34003,4
+35974310,t,"Berlin, Berlin, Germany",Lankwitz,Lankwitz,Steglitz - Zehlendorf,Berlin,Berlin,12247,NULL,NULL,DE,Germany,52.44244,13.3548,5
+38681762,f,"Bordeaux, Nouvelle-Aquitaine, France",Le Lac,Bordeaux Maritime,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33300,NULL,NULL,FR,France,44.87352,-0.57491,1
+38604264,f,"Bordeaux, Nouvelle-Aquitaine, France",Le Lac,Bordeaux Maritime,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33300,NULL,NULL,FR,France,44.88089,-0.56969,2
+38427344,t,"Bordeaux, Nouvelle-Aquitaine, France",Le Lac,Bordeaux Maritime,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33300,NULL,NULL,FR,France,44.88352,-0.5722,3
+38260742,f,"Bruges, Nouvelle-Aquitaine, France",Le Lac,Bruges,Bruges,Bruges,Nouvelle-Aquitaine,33520,NULL,NULL,FR,France,44.87466,-0.5831,4
+38248087,t,"Bordeaux, Nouvelle-Aquitaine, France",Le Lac,Bordeaux Maritime,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33300,NULL,NULL,FR,France,44.87841,-0.57293,5
+38714393,f,"Berlin, Berlin, Germany",Lichtenberg,Frankfurter Allee SÃ¼d,Lichtenberg,Berlin,Berlin,,NULL,NULL,DE,Germany,52.51252,13.4784,1
+38528861,f,"Berlin, Berlin, Germany",Lichtenberg,Frankfurter Allee SÃ¼d,Lichtenberg,Berlin,Berlin,,NULL,NULL,DE,Germany,52.51259,13.48064,2
+38307447,t,"Berlin, Berlin, Germany",Lichtenberg,Alt-Lichtenberg,Lichtenberg,Berlin,Berlin,10367,NULL,NULL,DE,Germany,52.52101,13.48509,3
+38120877,f,"Berlin, Berlin, Germany",Lichtenberg,Alt-Lichtenberg,Lichtenberg,Berlin,Berlin,10315,NULL,NULL,DE,Germany,52.52456,13.51747,4
+38114090,f,"Berlin, Berlin, Germany",Lichtenberg,Alt-Lichtenberg,Lichtenberg,Berlin,Berlin,10365,NULL,NULL,DE,Germany,52.51791,13.49828,5
+37849210,t,"Blankenfelde-Mahlow, Brandenburg, Germany",Lichtenrade,Lichtenrade,Tempelhof - SchÃ¶neberg,Blankenfelde-Mahlow,Brandenburg,15831,NULL,NULL,DE,Germany,52.37333,13.41578,1
+35665106,t,"Berlin, Berlin, Germany",Lichtenrade,Lichtenrade,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12309,NULL,NULL,DE,Germany,52.38716,13.41628,2
+34381510,f,"Berlin, Berlin, Germany",Lichtenrade,Lichtenrade,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12309,NULL,NULL,DE,Germany,52.38317,13.41368,3
+34242535,f,"Berlin, Berlin, Germany",Lichtenrade,Lichtenrade,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12307,NULL,NULL,DE,Germany,52.38311,13.40856,4
+34121839,t,"Berlin, Berlin, Germany",Lichtenrade,Lichtenrade,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12307,NULL,NULL,DE,Germany,52.38278,13.40812,5
+38697143,t,"Berlin, Berlin, Germany",Lichterfelde,Drakestr.,Steglitz - Zehlendorf,Berlin,Berlin,12203,NULL,NULL,DE,Germany,52.45155,13.3118,1
+38472165,t,"Berlin, Berlin, Germany",Lichterfelde,Drakestr.,Steglitz - Zehlendorf,Berlin,Berlin,12205,NULL,NULL,DE,Germany,52.4319,13.28638,2
+38459072,t,"Berlin, Berlin, Germany",Lichterfelde,Drakestr.,Steglitz - Zehlendorf,Berlin,Berlin,12203,NULL,NULL,DE,Germany,52.44305,13.31827,3
+38406331,t,"Berlin, Berlin, Germany",Lichterfelde,Drakestr.,Steglitz - Zehlendorf,Berlin,Berlin,12203,NULL,NULL,DE,Germany,52.4441,13.31469,4
+38391115,t,"Berlin, Berlin, Germany",Lichterfelde,Drakestr.,Steglitz - Zehlendorf,Berlin,Berlin,12203,NULL,NULL,DE,Germany,52.45007,13.31077,5
+37675412,t,"Berlin, Berlin, Germany",MÃ¤rkisches Viertel,MV 1,Reinickendorf,Berlin,Berlin,13439,NULL,NULL,DE,Germany,52.59376,13.35375,1
+37352515,f,"Berlin, Berlin, Germany",MÃ¤rkisches Viertel,MV 1,Reinickendorf,Berlin,Berlin,13439,NULL,NULL,DE,Germany,52.5942,13.35696,2
+35567275,t,"Berlin, Berlin, Germany",MÃ¤rkisches Viertel,MV 1,Reinickendorf,Berlin,Berlin,13439,NULL,NULL,DE,Germany,52.59468,13.35881,3
+35541559,t,"Berlin, Berlin, Germany",MÃ¤rkisches Viertel,MV 1,Reinickendorf,Berlin,Berlin,13439,NULL,NULL,DE,Germany,52.59487,13.35856,4
+35190127,t,"Berlin, Berlin, Germany",MÃ¤rkisches Viertel,MV 1,Reinickendorf,Berlin,Berlin,13435,NULL,NULL,DE,Germany,52.59822,13.34824,5
+38366552,t,"Berlin, Berlin, Germany",MÃ¼ggelheim,MÃ¼ggelheim,Treptow - KÃ¶penick,Berlin,Berlin,12559,NULL,NULL,DE,Germany,52.41979,13.67756,1
+37455410,t,"Berlin, Berlin, Germany",MÃ¼ggelheim,MÃ¼ggelheim,Treptow - KÃ¶penick,Berlin,Berlin,12559,NULL,NULL,DE,Germany,52.41886,13.67612,2
+36697172,t,"Berlin, Berlin, Germany",MÃ¼ggelheim,MÃ¼ggelheim,Treptow - KÃ¶penick,Berlin,Berlin,12559,NULL,NULL,DE,Germany,52.40725,13.65195,3
+30917918,t,"Berlin, Berlin, Germany",MÃ¼ggelheim,MÃ¼ggelheim,Treptow - KÃ¶penick,Berlin,Berlin,12559,NULL,NULL,DE,Germany,52.41291,13.64685,4
+30101674,t,"Berlin, Berlin, Germany",MÃ¼ggelheim,MÃ¼ggelheim,Treptow - KÃ¶penick,Berlin,Berlin,12559,NULL,NULL,DE,Germany,52.40699,13.6596,5
+38484072,f,"Berlin, Berlin, Germany",Mahlsdorf,Mahlsdorf,Marzahn - Hellersdorf,Berlin,Berlin,12623,NULL,NULL,DE,Germany,52.4844,13.58658,1
+36142859,t,"Berlin, Berlin, Germany",Mahlsdorf,Mahlsdorf,Marzahn - Hellersdorf,Berlin,Berlin,12623,NULL,NULL,DE,Germany,52.48846,13.60691,2
+34247467,t,"Berlin, Berlin, Germany",Mahlsdorf,Mahlsdorf,Marzahn - Hellersdorf,Berlin,Berlin,12623,NULL,NULL,DE,Germany,52.52361,13.6204,3
+33763940,t,"Berlin, Berlin, Germany",Mahlsdorf,Mahlsdorf,Marzahn - Hellersdorf,Berlin,Berlin,12623,NULL,NULL,DE,Germany,52.48028,13.60657,4
+32627952,t,"Berlin, Berlin, Germany",Mahlsdorf,Mahlsdorf,Marzahn - Hellersdorf,Berlin,Berlin,12623,NULL,NULL,DE,Germany,52.47946,13.59899,5
+37989962,f,"Berlin, Berlin, Germany",Mariendorf,Mariendorf,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12107,NULL,NULL,DE,Germany,52.44126,13.38851,1
+37848731,t,"Berlin, Berlin, Germany",Mariendorf,Mariendorf,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12105,NULL,NULL,DE,Germany,52.44993,13.38352,2
+37285435,t,"Berlin, Berlin, Germany",Mariendorf,Mariendorf,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12105,NULL,NULL,DE,Germany,52.4493,13.38356,3
+36807234,t,"Berlin, Berlin, Germany",Mariendorf,Mariendorf,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12105,NULL,NULL,DE,Germany,52.44296,13.37696,4
+36731204,t,"Berlin, Berlin, Germany",Mariendorf,Mariendorf,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12105,NULL,NULL,DE,Germany,52.44298,13.37564,5
+35732004,f,"Berlin, Germany",Marienfelde,Marienfelde,Tempelhof - SchÃ¶neberg,Berlin,,12279,NULL,NULL,DE,Germany,52.40924,13.35989,1
+35471319,t,"Berlin, Berlin, Germany",Marienfelde,Marienfelde,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12277,NULL,NULL,DE,Germany,52.42357,13.36617,2
+32534469,t,"Berlin, Berlin, Germany",Marienfelde,Marienfelde,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12277,NULL,NULL,DE,Germany,52.42337,13.37063,3
+28191086,t,"Berlin, Berlin, Germany",Marienfelde,Marienfelde,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12277,NULL,NULL,DE,Germany,52.42501,13.36752,4
+27045731,t,"Berlin, Berlin, Germany",Marienfelde,Marienfelde,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12277,NULL,NULL,DE,Germany,52.42239,13.37011,5
+38459249,f,"Berlin, Berlin, Germany",Marzahn,Marzahn-Mitte,Marzahn - Hellersdorf,Berlin,Berlin,12679,NULL,NULL,DE,Germany,52.54899,13.57349,1
+37478314,t,"Berlin, Berlin, Germany",Marzahn,Marzahn-SÃ¼d,Marzahn - Hellersdorf,Berlin,Berlin,12681,NULL,NULL,DE,Germany,52.5195,13.52821,2
+37421336,t,"Berlin, Berlin, Germany",Marzahn,Marzahn-Nord,Marzahn - Hellersdorf,Berlin,Berlin,12689,NULL,NULL,DE,Germany,52.56436,13.57486,3
+37267963,f,"Berlin, Berlin, Germany",Marzahn,Marzahn-SÃ¼d,Marzahn - Hellersdorf,Berlin,Berlin,10315,NULL,NULL,DE,Germany,52.52459,13.52624,4
+36629319,f,"Berlin, Berlin, Germany",Marzahn,Marzahn-Mitte,Marzahn - Hellersdorf,Berlin,Berlin,12687,NULL,NULL,DE,Germany,52.5516,13.56025,5
+38722081,f,"Berlin, Berlin, Germany",Mitte,Alexanderplatz,Mitte,Berlin,Berlin,10178,NULL,NULL,DE,Germany,52.52034,13.40492,1
+38717771,t,"Berlin, Berlin, Germany",Mitte,Alexanderplatz,Mitte,Berlin,Berlin,10178,NULL,NULL,DE,Germany,52.52244,13.40566,2
+38715216,t,"Berlin, Berlin, Germany",Mitte,Alexanderplatz,Mitte,Berlin,Berlin,10178,NULL,NULL,DE,Germany,52.5237,13.41769,3
+38710395,t,"Berlin, Berlin, Germany",Mitte,Regierungsviertel,Mitte,Berlin,Berlin,10117,NULL,NULL,DE,Germany,52.50921,13.40179,4
+38700293,t,"Berlin, Berlin, Germany",Mitte,Alexanderplatz,Mitte,Berlin,Berlin,10115,NULL,NULL,DE,Germany,52.53301,13.3796,5
+38687527,t,"Berlin, Berlin, Germany",Moabit,Moabit West,Mitte,Berlin,Berlin,10555,NULL,NULL,DE,Germany,52.52275,13.33789,1
+38652330,t,"Berlin, Berlin, Germany",Moabit,Moabit West,Mitte,Berlin,Berlin,10551,NULL,NULL,DE,Germany,52.53187,13.33092,2
+38637813,f,"Berlin, Berlin, Germany",Moabit,Moabit West,Mitte,Berlin,Berlin,10555,NULL,NULL,DE,Germany,52.51786,13.33393,3
+38599324,f,"Berlin, Berlin, Germany",Moabit,Moabit West,Mitte,Berlin,Berlin,10551,NULL,NULL,DE,Germany,52.53245,13.34236,4
+38597039,t,"Berlin, Berlin, Germany",Moabit,Moabit West,Mitte,Berlin,Berlin,10551,NULL,NULL,DE,Germany,52.53448,13.34226,5
+38816321,t,"Bordeaux, Nouvelle-Aquitaine, France",Monsejour,Caudran,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33200,NULL,NULL,FR,France,44.86242,-0.61722,1
+38641648,t,"MÃ©rignac, Nouvelle-Aquitaine, France",Monsejour,Capeyron,Merignac,MÃ©rignac,Nouvelle-Aquitaine,33700,NULL,NULL,FR,France,44.84933,-0.64546,2
+38546467,t,"MÃ©rignac, Nouvelle-Aquitaine, France",Monsejour,Centre ville (Merignac),Merignac,MÃ©rignac,Nouvelle-Aquitaine,33700,NULL,NULL,FR,France,44.83976,-0.64083,3
+38457710,t,"MÃ©rignac, Nouvelle-Aquitaine, France",Monsejour,Capeyron,Merignac,MÃ©rignac,Nouvelle-Aquitaine,33700,NULL,NULL,FR,France,44.84833,-0.64541,4
+38370291,f,"Eysines, France",Monsejour,Eysines,Eysines,Eysines,,33320,NULL,NULL,FR,France,44.86464,-0.64442,5
+38255261,t,"Amsterdam, Noord-Holland, Netherlands",Museumkwartier,Zuid,,Amsterdam,Noord-Holland,1071 TS,NULL,NULL,NL,Netherlands,52.35344,4.88203,1
+37788680,t,"Amsterdam, Noord-Holland, Netherlands",Museumkwartier,Zuid,,Amsterdam,Noord-Holland,1071 HS,NULL,NULL,NL,Netherlands,52.356,4.8713,2
+37277903,t,"Amsterdam, Noord-Holland, Netherlands",Museumkwartier,Zuid,,Amsterdam,Noord-Holland,1071 WV,NULL,NULL,NL,Netherlands,52.35217,4.88047,3
+35662871,t,"Amsterdam, Noord-Holland, Netherlands",Museumkwartier,Zuid,,Amsterdam,Noord-Holland,1071 PJ,NULL,NULL,NL,Netherlands,52.35484,4.87498,4
+35187677,t,"Amsterdam, Noord-Holland, Netherlands",Museumkwartier,Zuid,,Amsterdam,Noord-Holland,1071 VB,NULL,NULL,NL,Netherlands,52.35374,4.88516,5
+38818254,t,"Talence, Nouvelle-Aquitaine, France",Nansouty,Talence,Talence,Talence,Nouvelle-Aquitaine,33400,NULL,NULL,FR,France,44.81845,-0.58149,1
+38746247,t,"Bordeaux, Nouvelle-Aquitaine, France",Nansouty,Nansouty - Saint Gens,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33800,NULL,NULL,FR,France,44.8231,-0.56773,2
+38699192,f,"Bordeaux, France",Nansouty,Nansouty - Saint Gens,Bordeaux,Bordeaux,,33000,NULL,NULL,FR,France,44.8277,-0.57749,3
+38682856,t,"Bordeaux, Nouvelle-Aquitaine, France",Nansouty,Bordeaux Sud,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33800,NULL,NULL,FR,France,44.82556,-0.56498,4
+38658778,t,"Talence, Nouvelle-Aquitaine, France",Nansouty,Talence,Talence,Talence,Nouvelle-Aquitaine,33400,NULL,NULL,FR,France,44.8036,-0.57856,5
+37709091,t,"Berlin, Berlin, Germany",Neu-HohenschÃ¶nhausen,Neu-HohenschÃ¶nhausen Nord,Lichtenberg,Berlin,Berlin,13059,NULL,NULL,DE,Germany,52.57165,13.51907,1
+37646109,t,"Berlin, Berlin, Germany",Neu-HohenschÃ¶nhausen,Neu-HohenschÃ¶nhausen Nord,Lichtenberg,Berlin,Berlin,13059,NULL,NULL,DE,Germany,52.56975,13.51454,2
+35641582,t,"Berlin, Berlin, Germany",Neu-HohenschÃ¶nhausen,Neu-HohenschÃ¶nhausen Nord,Lichtenberg,Berlin,Berlin,13059,NULL,NULL,DE,Germany,52.57126,13.51792,3
+33743133,f,"Berlin, Berlin, Germany",Neu-HohenschÃ¶nhausen,Neu-HohenschÃ¶nhausen SÃ¼d,Lichtenberg,Berlin,Berlin,,NULL,NULL,DE,Germany,52.56078,13.50659,4
+32839594,t,"Berlin, Berlin, Germany",Neu-HohenschÃ¶nhausen,Neu-HohenschÃ¶nhausen Nord,Lichtenberg,Berlin,Berlin,13059,NULL,NULL,DE,Germany,52.57192,13.51752,5
+38725980,t,"Berlin, Berlin, Germany",NeukÃ¶lln,Schillerpromenade,NeukÃ¶lln,Berlin,Berlin,12051,NULL,NULL,DE,Germany,52.47005,13.42664,1
+38716981,t,"Berlin, Berlin, Germany",NeukÃ¶lln,Schillerpromenade,NeukÃ¶lln,Berlin,Berlin,12049,NULL,NULL,DE,Germany,52.47837,13.42496,2
+38713361,f,"Berlin, Berlin, Germany",NeukÃ¶lln,ReuterstraÃŸe,NeukÃ¶lln,Berlin,Berlin,12435,NULL,NULL,DE,Germany,52.48828,13.44153,3
+38708922,t,"Berlin, Berlin, Germany",NeukÃ¶lln,Schillerpromenade,NeukÃ¶lln,Berlin,Berlin,12051,NULL,NULL,DE,Germany,52.46744,13.42958,4
+38701058,t,"Berlin, Berlin, Germany",NeukÃ¶lln,Rixdorf,NeukÃ¶lln,Berlin,Berlin,12059,NULL,NULL,DE,Germany,52.48611,13.44925,5
+38150832,t,"Berlin, Berlin, Germany",NiederschÃ¶neweide,NiederschÃ¶neweide,Treptow - KÃ¶penick,Berlin,Berlin,12439,NULL,NULL,DE,Germany,52.45713,13.51181,1
+36745682,f,"Berlin, Berlin, Germany",NiederschÃ¶neweide,NiederschÃ¶neweide,Treptow - KÃ¶penick,Berlin,Berlin,12439,NULL,NULL,DE,Germany,52.4571,13.5151,2
+36545824,t,"Berlin, Berlin, Germany",NiederschÃ¶neweide,NiederschÃ¶neweide,Treptow - KÃ¶penick,Berlin,Berlin,12439,NULL,NULL,DE,Germany,52.4524,13.51709,3
+36404953,f,"Berlin, Berlin, Germany",NiederschÃ¶neweide,NiederschÃ¶neweide,Treptow - KÃ¶penick,Berlin,Berlin,12439,NULL,NULL,DE,Germany,52.45729,13.50969,4
+34414365,t,"Berlin, Berlin, Germany",NiederschÃ¶neweide,NiederschÃ¶neweide,Treptow - KÃ¶penick,Berlin,Berlin,12439,NULL,NULL,DE,Germany,52.45303,13.51969,5
+38568424,f,"Berlin, Berlin, Germany",NiederschÃ¶nhausen,Blankenfelde/NiederschÃ¶nhausen,Pankow,Berlin,Berlin,13156,NULL,NULL,DE,Germany,52.58498,13.40954,1
+38542611,f,"Berlin, Berlin, Germany",NiederschÃ¶nhausen,Blankenfelde/NiederschÃ¶nhausen,Pankow,Berlin,Berlin,13156,NULL,NULL,DE,Germany,52.58839,13.41306,2
+38044285,t,"Berlin, Berlin, Germany",NiederschÃ¶nhausen,SchÃ¶nholz/Wilhelmsruh/Rosenthal,Pankow,Berlin,Berlin,13156,NULL,NULL,DE,Germany,52.58209,13.37381,3
+38035914,t,"Berlin, Berlin, Germany",NiederschÃ¶nhausen,SchÃ¶nholz/Wilhelmsruh/Rosenthal,Pankow,Berlin,Berlin,13156,NULL,NULL,DE,Germany,52.58224,13.37382,4
+37137739,t,"Berlin, Berlin, Germany",NiederschÃ¶nhausen,Blankenfelde/NiederschÃ¶nhausen,Pankow,Berlin,Berlin,13156,NULL,NULL,DE,Germany,52.58695,13.40068,5
+38337368,t,"Amsterdam, Noord-Holland, Netherlands",Nieuwendam-Noord,Noord-Oost,,Amsterdam,Noord-Holland,1024 LJ,NULL,NULL,NL,Netherlands,52.38817,4.95457,1
+37953379,t,"Amsterdam, Noord-Holland, Netherlands",Nieuwendam-Noord,Noord-Oost,,Amsterdam,Noord-Holland,1024 BG,NULL,NULL,NL,Netherlands,52.39304,4.94842,2
+37066676,t,"Amsterdam, Noord-Holland, Netherlands",Nieuwendam-Noord,Noord-Oost,,Amsterdam,Noord-Holland,1024 KL,NULL,NULL,NL,Netherlands,52.39107,4.96031,3
+36902088,t,"Amsterdam, Noord-Holland, Netherlands",Nieuwendam-Noord,Noord-Oost,,Amsterdam,Noord-Holland,1024 AZ,NULL,NULL,NL,Netherlands,52.40095,4.9511,4
+36718397,t,"Amsterdam, Noord-Holland, Netherlands",Nieuwendam-Noord,Noord-Oost,,Amsterdam,Noord-Holland,1024 HM,NULL,NULL,NL,Netherlands,52.39692,4.95822,5
+37762974,t,"Amsterdam, Noord-Holland, Netherlands",Nieuwendammerdijk en Buiksloterdijk,Oud-Noord,,Amsterdam,Noord-Holland,1025 LV,NULL,NULL,NL,Netherlands,52.39184,4.93683,1
+26938405,t,"Amsterdam, Noord-Holland, Netherlands",Nieuwendammerdijk en Buiksloterdijk,Oud-Noord,,Amsterdam,Noord-Holland,1025 LB,NULL,NULL,NL,Netherlands,52.39175,4.93577,2
+25853345,t,"Amsterdam, Noord-Holland, Netherlands",Nieuwendammerdijk en Buiksloterdijk,Oud-Noord,,Amsterdam,Noord-Holland,1025 KW,NULL,NULL,NL,Netherlands,52.39166,4.93718,3
+25433802,t,"Amsterdam, Noord-Holland, Netherlands",Nieuwendammerdijk en Buiksloterdijk,Oud-Noord,,Amsterdam,Noord-Holland,1025 KW,NULL,NULL,NL,Netherlands,52.39112,4.93729,4
+19403546,t,"Amsterdam, Noord-Holland, Netherlands",Nieuwendammerdijk en Buiksloterdijk,Oud-Noord,,Amsterdam,Noord-Holland,1025 LL,NULL,NULL,NL,Netherlands,52.39108,4.93792,5
+38485838,t,"Amsterdam, Noord-Holland, Netherlands",Nieuwendammerham,Oud-Noord,,Amsterdam,Noord-Holland,1021 JW,NULL,NULL,NL,Netherlands,52.38559,4.92108,1
+38125895,t,"Amsterdam, Noord-Holland, Netherlands",Nieuwendammerham,Oud-Noord,,Amsterdam,Noord-Holland,1021 JW,NULL,NULL,NL,Netherlands,52.38561,4.92128,2
+21696109,f,"Amsterdam, Noord-Holland, Netherlands",Nieuwendammerham,Oud-Noord,,Amsterdam,Noord-Holland,1021,NULL,NULL,NL,Netherlands,52.3842,4.9248,3
+6343271,t,"Amsterdam, Noord-Holland, Netherlands",Nieuwendammerham,Oud-Noord,,Amsterdam,Noord-Holland,1022 AG,NULL,NULL,NL,Netherlands,52.3857,4.93045,4
+1733772,f,"Amsterdam, North Holland, Netherlands",Nieuwendammerham,Oud-Noord,,Amsterdam,North Holland,1023bv,NULL,NULL,NL,Netherlands,52.38744,4.94069,5
+38455985,t,"Amsterdam, Noord-Holland, Netherlands",Nieuwmarkt en Lastage,Centrum-Oost,,Amsterdam,Noord-Holland,1011 AX,NULL,NULL,NL,Netherlands,52.37429,4.90556,1
+38371742,t,"Amsterdam, Noord-Holland, Netherlands",Nieuwmarkt en Lastage,Centrum-Oost,,Amsterdam,Noord-Holland,1011 BJ,NULL,NULL,NL,Netherlands,52.37222,4.9041,2
+37937563,t,"Amsterdam, Noord-Holland, Netherlands",Nieuwmarkt en Lastage,Centrum-Oost,,Amsterdam,Noord-Holland,1011 VM,NULL,NULL,NL,Netherlands,52.36814,4.90747,3
+37922105,f,"Amsterdam, Noord-Holland, Netherlands",Nieuwmarkt en Lastage,Centrum-Oost,,Amsterdam,Noord-Holland,1011 AW,NULL,NULL,NL,Netherlands,52.37234,4.90618,4
+37921800,f,"Amsterdam, Noord-Holland, Netherlands",Nieuwmarkt en Lastage,Centrum-Oost,,Amsterdam,Noord-Holland,1011 AW,NULL,NULL,NL,Netherlands,52.37266,4.90791,5
+37950991,t,"Berlin, Berlin, Germany",Nikolassee,Zehlendorf  SÃ¼dwest,Steglitz - Zehlendorf,Berlin,Berlin,14129,NULL,NULL,DE,Germany,52.43619,13.21363,1
+37307053,t,"Berlin, Berlin, Germany",Nikolassee,Zehlendorf  SÃ¼dwest,Steglitz - Zehlendorf,Berlin,Berlin,14129,NULL,NULL,DE,Germany,52.42655,13.19396,2
+36879869,f,"Berlin, Berlin, Germany",Nikolassee,Zehlendorf  SÃ¼dwest,Steglitz - Zehlendorf,Berlin,Berlin,14129,NULL,NULL,DE,Germany,52.43648,13.19596,3
+36870785,f,"Berlin, Berlin, Germany",Nikolassee,Zehlendorf  SÃ¼dwest,Steglitz - Zehlendorf,Berlin,Berlin,14129,NULL,NULL,DE,Germany,52.43647,13.19709,4
+36657578,f,"Berlin, Berlin, Germany",Nikolassee,Zehlendorf  SÃ¼dwest,Steglitz - Zehlendorf,Berlin,Berlin,14129,NULL,NULL,DE,Germany,52.44402,13.17555,5
+38640153,f,"Berlin, Berlin, Germany",OberschÃ¶neweide,OberschÃ¶neweide,Treptow - KÃ¶penick,Berlin,Berlin,12459,NULL,NULL,DE,Germany,52.46454,13.50652,1
+38174875,f,"Berlin, Berlin, Germany",OberschÃ¶neweide,OberschÃ¶neweide,Treptow - KÃ¶penick,Berlin,Berlin,12459,NULL,NULL,DE,Germany,52.46734,13.51039,2
+37563710,f,"Berlin, Berlin, Germany",OberschÃ¶neweide,OberschÃ¶neweide,Treptow - KÃ¶penick,Berlin,Berlin,12459,NULL,NULL,DE,Germany,52.4599,13.52862,3
+37271095,t,"Berlin, Berlin, Germany",OberschÃ¶neweide,OberschÃ¶neweide,Treptow - KÃ¶penick,Berlin,Berlin,12459,NULL,NULL,DE,Germany,52.46272,13.5206,4
+36409434,t,"Berlin, Berlin, Germany",OberschÃ¶neweide,OberschÃ¶neweide,Treptow - KÃ¶penick,Berlin,Berlin,12459,NULL,NULL,DE,Germany,52.4598,13.5302,5
+38569893,t,"Amsterdam, Noord-Holland, Netherlands",Oost,Centrum-Oost,,Amsterdam,Noord-Holland,1018 GS,NULL,NULL,NL,Netherlands,52.36087,4.9087,1
+38564626,f,"Amsterdam, Noord-Holland, Netherlands",Oost,Centrum-Oost,,Amsterdam,Noord-Holland,1018 GB,NULL,NULL,NL,Netherlands,52.36247,4.90903,2
+38546573,t,"Amsterdam, Noord-Holland, Netherlands",Oost,Centrum-Oost,,Amsterdam,Noord-Holland,1018 MR,NULL,NULL,NL,Netherlands,52.37024,4.92596,3
+38452521,t,"Amsterdam, Noord-Holland, Netherlands",Oost,Centrum-Oost,,Amsterdam,Noord-Holland,1018 EW,NULL,NULL,NL,Netherlands,52.36134,4.90709,4
+38449868,f,"Amsterdam, Noord-Holland, Netherlands",Oost,Centrum-Oost,,Amsterdam,Noord-Holland,1018,NULL,NULL,NL,Netherlands,52.36552,4.90614,5
+38270534,t,"Amsterdam, Noord-Holland, Netherlands",Oostelijke Eilanden en Kadijken,Centrum-Oost,,Amsterdam,Noord-Holland,1018 KN,NULL,NULL,NL,Netherlands,52.37106,4.91748,1
+37645132,t,"Amsterdam, Noord-Holland, Netherlands",Oostelijke Eilanden en Kadijken,Centrum-Oost,,Amsterdam,Noord-Holland,1018 AM,NULL,NULL,NL,Netherlands,52.36816,4.92811,2
+37320015,t,"Amsterdam, Noord-Holland, Netherlands",Oostelijke Eilanden en Kadijken,Centrum-Oost,,Amsterdam,Noord-Holland,1018 PX,NULL,NULL,NL,Netherlands,52.37235,4.93064,3
+35824534,f,"Amsterdam, Noord-Holland, Netherlands",Oostelijke Eilanden en Kadijken,Centrum-Oost,,Amsterdam,Noord-Holland,1018 NA,NULL,NULL,NL,Netherlands,52.36782,4.92167,4
+35675026,f,"Amsterdam, NH, Netherlands",Oostelijke Eilanden en Kadijken,Centrum-Oost,,Amsterdam,NH,1018,NULL,NULL,NL,Netherlands,52.37085,4.93126,5
+38530735,f,"Amsterdam, NH, Netherlands",Oosterparkbuurt,Oud-Oost,,Amsterdam,NH,1092 bv,NULL,NULL,NL,Netherlands,52.35818,4.92489,1
+38473476,t,"Amsterdam, Noord-Holland, Netherlands",Oosterparkbuurt,Oud-Oost,,Amsterdam,Noord-Holland,1091 HA,NULL,NULL,NL,Netherlands,52.35711,4.9121,2
+38447036,t,"Amsterdam, Noord-Holland, Netherlands",Oosterparkbuurt,Oud-Oost,,Amsterdam,Noord-Holland,1091 VX,NULL,NULL,NL,Netherlands,52.35102,4.91562,3
+38408709,t,"Amsterdam, Noord-Holland, Netherlands",Oosterparkbuurt,Oud-Oost,,Amsterdam,Noord-Holland,1092 EA,NULL,NULL,NL,Netherlands,52.35778,4.91902,4
+38403621,f,"Amsterdam, Noord-Holland, Netherlands",Oosterparkbuurt,Oud-Oost,,Amsterdam,Noord-Holland,1092 VH,NULL,NULL,NL,Netherlands,52.35702,4.92199,5
+37847201,t,"Amsterdam, Noord-Holland, Netherlands",Oostzanerwerf,Noord-West,,Amsterdam,Noord-Holland,1033 WK,NULL,NULL,NL,Netherlands,52.42084,4.88141,1
+37737547,t,"Amsterdam, Noord-Holland, Netherlands",Oostzanerwerf,Noord-West,,Amsterdam,Noord-Holland,1035 XZ,NULL,NULL,NL,Netherlands,52.4204,4.89602,2
+37585995,t,"Amsterdam, Noord-Holland, Netherlands",Oostzanerwerf,Noord-West,,Amsterdam,Noord-Holland,1035 NV,NULL,NULL,NL,Netherlands,52.4191,4.89722,3
+37448737,t,"Amsterdam, Noord-Holland, Netherlands",Oostzanerwerf,Noord-West,,Amsterdam,Noord-Holland,1035 HZ,NULL,NULL,NL,Netherlands,52.42428,4.88678,4
+36383848,t,"Amsterdam, Noord-Holland, Netherlands",Oostzanerwerf,Noord-West,,Amsterdam,Noord-Holland,1035 HP,NULL,NULL,NL,Netherlands,52.4217,4.88539,5
+38504473,f,"Amsterdam, Noord-Holland, Netherlands",Osdorp,Osdorp,,Amsterdam,Noord-Holland,1068,NULL,NULL,NL,Netherlands,52.35762,4.80647,1
+38471546,f,"Amsterdam, NH, Netherlands",Osdorp,De Aker - Nieuw Sloten,,Amsterdam,NH,1060 RN,NULL,NULL,NL,Netherlands,52.35224,4.78073,2
+38349558,f,"Amsterdam, Noord-Holland, Netherlands",Osdorp,De Aker - Nieuw Sloten,,Amsterdam,Noord-Holland,1060 RG,NULL,NULL,NL,Netherlands,52.34925,4.78285,3
+38178718,f,"Amsterdam, Noord-Holland, Netherlands",Osdorp,Osdorp,,Amsterdam,Noord-Holland,1067 TD,NULL,NULL,NL,Netherlands,52.37911,4.76395,4
+38038398,t,"Amsterdam, Noord-Holland, Netherlands",Osdorp,De Aker - Nieuw Sloten,,Amsterdam,Noord-Holland,1066 DE,NULL,NULL,NL,Netherlands,52.33837,4.79473,5
+38581180,f,"Amsterdam, Noord-Holland, Netherlands",Oud-West,De Baarsjes - Oud-West,,Amsterdam,Noord-Holland,1057,NULL,NULL,NL,Netherlands,52.36835,4.86258,1
+38578168,t,"Amsterdam, Noord-Holland, Netherlands",Oud-West,De Baarsjes - Oud-West,,Amsterdam,Noord-Holland,1056 DW,NULL,NULL,NL,Netherlands,52.37287,4.85349,2
+38565298,t,"Amsterdam, Noord-Holland, Netherlands",Oud-West,De Baarsjes - Oud-West,,Amsterdam,Noord-Holland,1053 EM,NULL,NULL,NL,Netherlands,52.36557,4.86713,3
+38563719,t,"Amsterdam, Noord-Holland, Netherlands",Oud-West,De Baarsjes - Oud-West,,Amsterdam,Noord-Holland,1054 TZ,NULL,NULL,NL,Netherlands,52.3604,4.85887,4
+38560237,t,"Amsterdam, Noord-Holland, Netherlands",Oud-West,De Baarsjes - Oud-West,,Amsterdam,Noord-Holland,1057 DN,NULL,NULL,NL,Netherlands,52.36874,4.85718,5
+38578463,f,"Amsterdam, North Holland, Netherlands",Oud-Zuid,Zuid,,Amsterdam,North Holland,1059 AJ,NULL,NULL,NL,Netherlands,52.34949,4.85062,1
+38559801,f,"Amsterdam, Noord-Holland, Netherlands",Oud-Zuid,Zuid,,Amsterdam,Noord-Holland,1058,NULL,NULL,NL,Netherlands,52.35339,4.85083,2
+38539547,t,"Amsterdam, Noord-Holland, Netherlands",Oud-Zuid,De Pijp - Rivierenbuurt,,Amsterdam,Noord-Holland,1072 VR,NULL,NULL,NL,Netherlands,52.3542,4.88875,3
+38537935,f,"Amsterdam, NH, Netherlands",Oud-Zuid,De Pijp - Rivierenbuurt,,Amsterdam,NH,1073 RK,NULL,NULL,NL,Netherlands,52.35062,4.90174,4
+38468479,f,"Amsterdam, Noord-Holland, Netherlands",Oud-Zuid,De Pijp - Rivierenbuurt,,Amsterdam,Noord-Holland,1072 GW,NULL,NULL,NL,Netherlands,52.35161,4.89047,5
+38598518,f,"Amsterdam, NH, Netherlands",Overtoomse Veld,Slotervaart,,Amsterdam,NH,1058 eg,NULL,NULL,NL,Netherlands,52.36014,4.84255,1
+38594814,f,"Amsterdam, Noord-Holland, Netherlands",Overtoomse Veld,Slotervaart,,Amsterdam,Noord-Holland,1061 VR,NULL,NULL,NL,Netherlands,52.36523,4.83988,2
+38587299,f,"Amsterdam, Noord-Holland, Netherlands",Overtoomse Veld,Slotervaart,,Amsterdam,Noord-Holland,1061 VR,NULL,NULL,NL,Netherlands,52.36704,4.84122,3
+38479942,t,"Amsterdam, Noord-Holland, Netherlands",Overtoomse Veld,Slotervaart,,Amsterdam,Noord-Holland,1062 JP,NULL,NULL,NL,Netherlands,52.36261,4.83726,4
+38319342,t,"Amsterdam, Noord-Holland, Netherlands",Overtoomse Veld,Slotervaart,,Amsterdam,Noord-Holland,1058 EJ,NULL,NULL,NL,Netherlands,52.36137,4.84383,5
+38533330,t,"Berlin, Berlin, Germany",Pankow,Pankow Zentrum,Pankow,Berlin,Berlin,13187,NULL,NULL,DE,Germany,52.56527,13.40495,1
+38487219,t,"Berlin, Berlin, Germany",Pankow,Pankow SÃ¼d,Pankow,Berlin,Berlin,13187,NULL,NULL,DE,Germany,52.55982,13.40884,2
+38447114,t,"Berlin, Berlin, Germany",Pankow,Pankow SÃ¼d,Pankow,Berlin,Berlin,13189,NULL,NULL,DE,Germany,52.56004,13.42232,3
+38398168,t,"Berlin, Berlin, Germany",Pankow,Pankow Zentrum,Pankow,Berlin,Berlin,13187,NULL,NULL,DE,Germany,52.56603,13.40026,4
+38274351,t,"Berlin, Berlin, Germany",Pankow,Pankow SÃ¼d,Pankow,Berlin,Berlin,10439,NULL,NULL,DE,Germany,52.55456,13.41937,5
+38715494,f,"Berlin, Berlin, Germany",PlÃ¤nterwald,PlÃ¤nterwald,Treptow - KÃ¶penick,Berlin,Berlin,12435,NULL,NULL,DE,Germany,52.48561,13.46281,1
+38283456,f,"Berlin, Berlin, Germany",PlÃ¤nterwald,PlÃ¤nterwald,Treptow - KÃ¶penick,Berlin,Berlin,12435,NULL,NULL,DE,Germany,52.48939,13.46076,2
+37445297,f,"Berlin, Berlin, Germany",PlÃ¤nterwald,PlÃ¤nterwald,Treptow - KÃ¶penick,Berlin,Berlin,12437,NULL,NULL,DE,Germany,52.47559,13.48377,3
+37006773,t,"Berlin, Berlin, Germany",PlÃ¤nterwald,PlÃ¤nterwald,Treptow - KÃ¶penick,Berlin,Berlin,12435,NULL,NULL,DE,Germany,52.48619,13.46549,4
+36993586,t,"Berlin, Berlin, Germany",PlÃ¤nterwald,PlÃ¤nterwald,Treptow - KÃ¶penick,Berlin,Berlin,12437,NULL,NULL,DE,Germany,52.4791,13.48369,5
+37668542,f,"Berlin, Berlin, Germany",Potsdamer Platz,SÃ¼dliche Friedrichstadt,Friedrichshain-Kreuzberg,Berlin,Berlin,10963,NULL,NULL,DE,Germany,52.50512,13.38324,1
+37557256,t,"Berlin, Berlin, Germany",Potsdamer Platz,Tiergarten SÃ¼d,Mitte,Berlin,Berlin,10963,NULL,NULL,DE,Germany,52.50712,13.37472,2
+36297061,t,"Berlin, Berlin, Germany",Potsdamer Platz,SÃ¼dliche Friedrichstadt,Friedrichshain-Kreuzberg,Berlin,Berlin,10963,NULL,NULL,DE,Germany,52.50536,13.38127,3
+36037465,f,"Berlin, Berlin, Germany",Potsdamer Platz,Regierungsviertel,Mitte,Berlin,Berlin,10117,NULL,NULL,DE,Germany,52.51044,13.37967,4
+36028458,t,"Berlin, Berlin, Germany",Potsdamer Platz,Regierungsviertel,Mitte,Berlin,Berlin,10117,NULL,NULL,DE,Germany,52.51033,13.37879,5
+38725022,f,"Berlin, Berlin, Germany",Prenzlauer Berg,Helmholtzplatz,Pankow,Berlin,Berlin,10437,NULL,NULL,DE,Germany,52.54557,13.41769,1
+38721812,t,"Berlin, Berlin, Germany",Prenzlauer Berg,Prenzlauer Berg SÃ¼dwest,Pankow,Berlin,Berlin,10435,NULL,NULL,DE,Germany,52.53438,13.40991,2
+38714723,t,"Berlin, Berlin, Germany",Prenzlauer Berg,Prenzlauer Berg SÃ¼d,Pankow,Berlin,Berlin,10405,NULL,NULL,DE,Germany,52.53614,13.42961,3
+38669318,t,"Berlin, Berlin, Germany",Prenzlauer Berg,Prenzlauer Berg SÃ¼d,Pankow,Berlin,Berlin,10405,NULL,NULL,DE,Germany,52.5342,13.42359,4
+38669304,t,"Berlin, Berlin, Germany",Prenzlauer Berg,Prenzlauer Berg Nord,Pankow,Berlin,Berlin,10409,NULL,NULL,DE,Germany,52.54567,13.434,5
+38545660,t,"Erkner, Brandenburg, Germany",Rahnsdorf,Rahnsdorf/Hessenwinkel,Treptow - KÃ¶penick,Erkner,Brandenburg,15537,NULL,NULL,DE,Germany,52.43927,13.7514,1
+38540952,t,"Erkner, Brandenburg, Germany",Rahnsdorf,Rahnsdorf/Hessenwinkel,Treptow - KÃ¶penick,Erkner,Brandenburg,15537,NULL,NULL,DE,Germany,52.44012,13.75208,2
+38441220,t,"Berlin, Berlin, Germany",Rahnsdorf,Rahnsdorf/Hessenwinkel,Treptow - KÃ¶penick,Berlin,Berlin,12589,NULL,NULL,DE,Germany,52.42826,13.70465,3
+38251011,t,"Erkner, Brandenburg, Germany",Rahnsdorf,Rahnsdorf/Hessenwinkel,Treptow - KÃ¶penick,Erkner,Brandenburg,15537,NULL,NULL,DE,Germany,52.43948,13.75373,4
+35750290,t,"Berlin, Berlin, Germany",Rahnsdorf,Rahnsdorf/Hessenwinkel,Treptow - KÃ¶penick,Berlin,Berlin,12589,NULL,NULL,DE,Germany,52.43324,13.70473,5
+38727305,f,"Berlin, Berlin, Germany",Reinickendorf,Ost 2,Reinickendorf,Berlin,Berlin,13407,NULL,NULL,DE,Germany,52.57222,13.34574,1
+38656621,f,"Berlin, Berlin, Germany",Reinickendorf,West 4,Reinickendorf,Berlin,Berlin,13403,NULL,NULL,DE,Germany,52.56888,13.3166,2
+38656407,f,"Berlin, Berlin, Germany",Reinickendorf,West 4,Reinickendorf,Berlin,Berlin,13403,NULL,NULL,DE,Germany,52.56853,13.3162,3
+38504278,t,"Berlin, Berlin, Germany",Reinickendorf,Ost 2,Reinickendorf,Berlin,Berlin,13403,NULL,NULL,DE,Germany,52.56631,13.32967,4
+38353796,t,"Berlin, Berlin, Germany",Reinickendorf,Ost 2,Reinickendorf,Berlin,Berlin,13407,NULL,NULL,DE,Germany,52.56226,13.35535,5
+38562354,t,"Amsterdam, Noord-Holland, Netherlands",Rivierenbuurt,De Pijp - Rivierenbuurt,,Amsterdam,Noord-Holland,1078 PB,NULL,NULL,NL,Netherlands,52.34454,4.90225,1
+38562331,f,"Amsterdam, NH, Netherlands",Rivierenbuurt,De Pijp - Rivierenbuurt,,Amsterdam,NH,1079 JB,NULL,NULL,NL,Netherlands,52.3443,4.90825,2
+38441717,t,"Amsterdam, Noord-Holland, Netherlands",Rivierenbuurt,De Pijp - Rivierenbuurt,,Amsterdam,Noord-Holland,1079 BN,NULL,NULL,NL,Netherlands,52.3431,4.91107,3
+38421399,t,"Amsterdam, Noord-Holland, Netherlands",Rivierenbuurt,De Pijp - Rivierenbuurt,,Amsterdam,Noord-Holland,1079 JJ,NULL,NULL,NL,Netherlands,52.3414,4.90819,4
+38417080,t,"Amsterdam, Noord-Holland, Netherlands",Rivierenbuurt,De Pijp - Rivierenbuurt,,Amsterdam,Noord-Holland,1078 KZ,NULL,NULL,NL,Netherlands,52.34395,4.89324,5
+38371596,t,"Berlin, Berlin, Germany",Rosenthal,Blankenfelde/NiederschÃ¶nhausen,Pankow,Berlin,Berlin,13158,NULL,NULL,DE,Germany,52.59093,13.38977,1
+36670926,f,"Berlin, Berlin, Germany",Rosenthal,SchÃ¶nholz/Wilhelmsruh/Rosenthal,Pankow,Berlin,Berlin,13158,NULL,NULL,DE,Germany,52.59221,13.38415,2
+35406725,t,"Berlin, Berlin, Germany",Rosenthal,SchÃ¶nholz/Wilhelmsruh/Rosenthal,Pankow,Berlin,Berlin,13158,NULL,NULL,DE,Germany,52.5978,13.37712,3
+35348359,t,"Berlin, Berlin, Germany",Rosenthal,Blankenfelde/NiederschÃ¶nhausen,Pankow,Berlin,Berlin,13158,NULL,NULL,DE,Germany,52.59501,13.401,4
+29299465,t,"Berlin, Berlin, Germany",Rosenthal,Blankenfelde/NiederschÃ¶nhausen,Pankow,Berlin,Berlin,13158,NULL,NULL,DE,Germany,52.59203,13.39375,5
+38366533,t,"Berlin, Berlin, Germany",Rudow,Rudow,NeukÃ¶lln,Berlin,Berlin,12357,NULL,NULL,DE,Germany,52.42022,13.49777,1
+38262324,f,"Berlin, Berlin, Germany",Rudow,Rudow,NeukÃ¶lln,Berlin,Berlin,12357,NULL,NULL,DE,Germany,52.41593,13.49792,2
+37983226,t,"SchÃ¶nefeld, Brandenburg, Germany",Rudow,Rudow,NeukÃ¶lln,SchÃ¶nefeld,Brandenburg,12529,NULL,NULL,DE,Germany,52.39645,13.50006,3
+37276851,t,"Berlin, Berlin, Germany",Rudow,Rudow,NeukÃ¶lln,Berlin,Berlin,12357,NULL,NULL,DE,Germany,52.42468,13.49919,4
+36095251,f,"Berlin, Berlin, Germany",Rudow,Rudow,NeukÃ¶lln,Berlin,Berlin,12355,NULL,NULL,DE,Germany,52.40832,13.48851,5
+38731172,t,"Berlin, Berlin, Germany",Rummelsburg,Friedrichsfelde Nord,Lichtenberg,Berlin,Berlin,10317,NULL,NULL,DE,Germany,52.51187,13.50498,1
+38699804,t,"Berlin, Berlin, Germany",Rummelsburg,Neu Lichtenberg,Lichtenberg,Berlin,Berlin,10317,NULL,NULL,DE,Germany,52.50568,13.49026,2
+38672652,t,"Berlin, Berlin, Germany",Rummelsburg,Neu Lichtenberg,Lichtenberg,Berlin,Berlin,10317,NULL,NULL,DE,Germany,52.5011,13.49407,3
+38590769,t,"Berlin, Berlin, Germany",Rummelsburg,Frankfurter Allee SÃ¼d,Lichtenberg,Berlin,Berlin,10317,NULL,NULL,DE,Germany,52.50589,13.48786,4
+38370076,f,"Berlin, Berlin, Germany",Rummelsburg,Neu Lichtenberg,Lichtenberg,Berlin,Berlin,10317,NULL,NULL,DE,Germany,52.5048,13.49533,5
+38510436,f,"Bordeaux, Nouvelle-Aquitaine, France",Saint Augustin,Saint Augustin - Tauzin - Alphonse Dupeux,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33000,NULL,NULL,FR,France,44.83082,-0.59748,1
+38343814,t,"Bordeaux, Nouvelle-Aquitaine, France",Saint Augustin,Saint Augustin - Tauzin - Alphonse Dupeux,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33000,NULL,NULL,FR,France,44.83578,-0.6016,2
+38154809,t,"MÃ©rignac, Nouvelle-Aquitaine, France",Saint Augustin,La Glacire,Merignac,MÃ©rignac,Nouvelle-Aquitaine,33700,NULL,NULL,FR,France,44.82936,-0.61828,3
+38051054,f,"Talence, Nouvelle-Aquitaine, France",Saint Augustin,Talence,Talence,Talence,Nouvelle-Aquitaine,33400,NULL,NULL,FR,France,44.81807,-0.5954,4
+38009554,t,"Bordeaux, Nouvelle-Aquitaine, France",Saint Augustin,Saint Augustin - Tauzin - Alphonse Dupeux,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33000,NULL,NULL,FR,France,44.82751,-0.59811,5
+38868359,t,"Bordeaux, Nouvelle-Aquitaine, France",Saint Bruno,Saint Augustin - Tauzin - Alphonse Dupeux,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33000,NULL,NULL,FR,France,44.83169,-0.58626,1
+38862344,f,"Bordeaux, Nouvelle-Aquitaine, France",Saint Bruno,Saint Augustin - Tauzin - Alphonse Dupeux,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33000,NULL,NULL,FR,France,44.83203,-0.58414,2
+38788738,f,"Bordeaux, 33 - Gironde, France",Saint Bruno,Centre ville (Bordeaux),Bordeaux,Bordeaux,33 - Gironde,33000,NULL,NULL,FR,France,44.83998,-0.58702,3
+38745525,t,"Bordeaux, Nouvelle-Aquitaine, France",Saint Bruno,Saint Augustin - Tauzin - Alphonse Dupeux,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33000,NULL,NULL,FR,France,44.83028,-0.5822,4
+38689622,f,"Bordeaux, France",Saint Bruno,Saint Augustin - Tauzin - Alphonse Dupeux,Bordeaux,Bordeaux,,33000,NULL,NULL,FR,France,44.83195,-0.57869,5
+38836585,t,"BÃ¨gles, Nouvelle-Aquitaine, France",Saint Jean,Bgles,Bgles,BÃ¨gles,Nouvelle-Aquitaine,33130,NULL,NULL,FR,France,44.81469,-0.54635,1
+38810797,t,"Bordeaux, Nouvelle-Aquitaine, France",Saint Jean,Bordeaux Sud,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33800,NULL,NULL,FR,France,44.81438,-0.56423,2
+38780071,f,"Bordeaux , Hauts-de-France, France",Saint Jean,Bordeaux Sud,Bordeaux,Bordeaux ,Hauts-de-France,33800,NULL,NULL,FR,France,44.82524,-0.55267,3
+38616499,t,"Bordeaux, Nouvelle-Aquitaine, France",Saint Jean,Bordeaux Sud,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33800,NULL,NULL,FR,France,44.82291,-0.55512,4
+38593832,t,"BÃ¨gles, Nouvelle-Aquitaine, France",Saint Jean,Bgles,Bgles,BÃ¨gles,Nouvelle-Aquitaine,33130,NULL,NULL,FR,France,44.81123,-0.5552,5
+38699638,t,"Bordeaux, Nouvelle-Aquitaine, France",Saint-Seurin - FondaudÃ¨ge,Centre ville (Bordeaux),Bordeaux,Bordeaux,Nouvelle-Aquitaine,33000,NULL,NULL,FR,France,44.84616,-0.58414,1
+38672272,t,"Bordeaux, Nouvelle-Aquitaine, France",Saint-Seurin - FondaudÃ¨ge,Chartrons - Grand Parc - Jardin Public,Bordeaux,Bordeaux,Nouvelle-Aquitaine,33000,NULL,NULL,FR,France,44.85224,-0.58417,2
+38577940,f,"Bordeaux, France",Saint-Seurin - FondaudÃ¨ge,Centre ville (Bordeaux),Bordeaux,Bordeaux,,33000,NULL,NULL,FR,France,44.84087,-0.59729,3
+38326430,t,"Bordeaux, Nouvelle-Aquitaine, France",Saint-Seurin - FondaudÃ¨ge,Centre ville (Bordeaux),Bordeaux,Bordeaux,Nouvelle-Aquitaine,33000,NULL,NULL,FR,France,44.85095,-0.59225,4
+38316412,f,"Le Bouscat, Nouvelle-Aquitaine, France",Saint-Seurin - FondaudÃ¨ge,Le Bouscat,Le Bouscat,Le Bouscat,Nouvelle-Aquitaine,33110,NULL,NULL,FR,France,44.86023,-0.59499,5
+38725862,f,"Berlin, Berlin, Germany",SchÃ¶neberg,SchÃ¶neberg-Nord,Tempelhof - SchÃ¶neberg,Berlin,Berlin,10829,NULL,NULL,DE,Germany,52.48974,13.36983,1
+38717860,f,"Berlin, Berlin, Germany",SchÃ¶neberg,SchÃ¶neberg-Nord,Tempelhof - SchÃ¶neberg,Berlin,Berlin,10829,NULL,NULL,DE,Germany,52.48883,13.36829,2
+38714399,t,"Berlin, Berlin, Germany",SchÃ¶neberg,Friedenau,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12157,NULL,NULL,DE,Germany,52.47152,13.34469,3
+38699109,f,"Berlin, Berlin, Germany",SchÃ¶neberg,SchÃ¶neberg-SÃ¼d,Tempelhof - SchÃ¶neberg,Berlin,Berlin,10823,NULL,NULL,DE,Germany,52.48205,13.3475,4
+38657949,f,"Berlin, Berlin, Germany",SchÃ¶neberg,SchÃ¶neberg-Nord,Tempelhof - SchÃ¶neberg,Berlin,Berlin,10777,NULL,NULL,DE,Germany,52.49969,13.35033,5
+38542118,t,"Berlin, Berlin, Germany",SchmÃ¶ckwitz,SchmÃ¶ckwitz/Karolinenhof/Rauchfangswerder,Treptow - KÃ¶penick,Berlin,Berlin,12527,NULL,NULL,DE,Germany,52.3478,13.64195,1
+36620584,t,"Berlin, Berlin, Germany",SchmÃ¶ckwitz,SchmÃ¶ckwitz/Karolinenhof/Rauchfangswerder,Treptow - KÃ¶penick,Berlin,Berlin,12527,NULL,NULL,DE,Germany,52.38275,13.62351,2
+35751033,t,"Berlin, Berlin, Germany",SchmÃ¶ckwitz,SchmÃ¶ckwitz/Karolinenhof/Rauchfangswerder,Treptow - KÃ¶penick,Berlin,Berlin,12527,NULL,NULL,DE,Germany,52.38994,13.63155,3
+35464295,t,"Berlin, Berlin, Germany",SchmÃ¶ckwitz,SchmÃ¶ckwitz/Karolinenhof/Rauchfangswerder,Treptow - KÃ¶penick,Berlin,Berlin,12527,NULL,NULL,DE,Germany,52.38995,13.63901,4
+35340791,t,"Berlin, Berlin, Germany",SchmÃ¶ckwitz,SchmÃ¶ckwitz/Karolinenhof/Rauchfangswerder,Treptow - KÃ¶penick,Berlin,Berlin,12527,NULL,NULL,DE,Germany,52.37549,13.65303,5
+38161564,t,"Berlin, Berlin, Germany",Schmargendorf,Grunewald,Charlottenburg-Wilm.,Berlin,Berlin,14193,NULL,NULL,DE,Germany,52.48921,13.29469,1
+37924043,t,"Berlin, Berlin, Germany",Schmargendorf,Schmargendorf,Charlottenburg-Wilm.,Berlin,Berlin,14199,NULL,NULL,DE,Germany,52.47759,13.29074,2
+37857855,t,"Berlin, Berlin, Germany",Schmargendorf,Grunewald,Charlottenburg-Wilm.,Berlin,Berlin,14193,NULL,NULL,DE,Germany,52.48771,13.29917,3
+37265446,t,"Berlin, Berlin, Germany",Schmargendorf,Grunewald,Charlottenburg-Wilm.,Berlin,Berlin,14193,NULL,NULL,DE,Germany,52.48467,13.29288,4
+37030099,t,"Berlin, Berlin, Germany",Schmargendorf,Schmargendorf,Charlottenburg-Wilm.,Berlin,Berlin,14199,NULL,NULL,DE,Germany,52.48608,13.30002,5
+38710888,t,"Berlin, Berlin, Germany",Siemensstadt,Siemensstadt,Spandau,Berlin,Berlin,13629,NULL,NULL,DE,Germany,52.5442,13.26246,1
+38509847,t,"Berlin, Berlin, Germany",Siemensstadt,Siemensstadt,Spandau,Berlin,Berlin,13629,NULL,NULL,DE,Germany,52.54433,13.26322,2
+38374893,t,"Berlin, Berlin, Germany",Siemensstadt,Siemensstadt,Spandau,Berlin,Berlin,13629,NULL,NULL,DE,Germany,52.54421,13.2634,3
+38055477,t,"Berlin, Berlin, Germany",Siemensstadt,Siemensstadt,Spandau,Berlin,Berlin,13629,NULL,NULL,DE,Germany,52.54528,13.26296,4
+37868139,f,"Berlin, Berlin, Germany",Siemensstadt,Siemensstadt,Spandau,Berlin,Berlin,13629,NULL,NULL,DE,Germany,52.53578,13.27605,5
+38118172,t,"Amsterdam, Noord-Holland, Netherlands",Slotermeer-Noordoost,Geuzenveld - Slotermeer,,Amsterdam,Noord-Holland,1043 BP,NULL,NULL,NL,Netherlands,52.38754,4.83636,1
+37796590,t,"Amsterdam, Noord-Holland, Netherlands",Slotermeer-Noordoost,Geuzenveld - Slotermeer,,Amsterdam,Noord-Holland,1063 GJ,NULL,NULL,NL,Netherlands,52.38356,4.82525,2
+36141485,t,"Amsterdam, Noord-Holland, Netherlands",Slotermeer-Noordoost,Geuzenveld - Slotermeer,,Amsterdam,Noord-Holland,1063 GG,NULL,NULL,NL,Netherlands,52.38283,4.82359,3
+34728662,f,"Amsterdam, Noord-Holland, Netherlands",Slotermeer-Noordoost,Geuzenveld - Slotermeer,,Amsterdam,Noord-Holland,1063 MJ,NULL,NULL,NL,Netherlands,52.3804,4.8258,4
+34311227,t,"Amsterdam, Noord-Holland, Netherlands",Slotermeer-Noordoost,Geuzenveld - Slotermeer,,Amsterdam,Noord-Holland,1063 XN,NULL,NULL,NL,Netherlands,52.3788,4.83597,5
+37806154,f,"Amsterdam, NH, Netherlands",Slotermeer-Zuidwest,Geuzenveld - Slotermeer,,Amsterdam,NH,1064 GW,NULL,NULL,NL,Netherlands,52.37257,4.82077,1
+37688762,t,"Amsterdam, Noord-Holland, Netherlands",Slotermeer-Zuidwest,Geuzenveld - Slotermeer,,Amsterdam,Noord-Holland,1063 KV,NULL,NULL,NL,Netherlands,52.38041,4.81977,2
+37589253,t,"Amsterdam, Noord-Holland, Netherlands",Slotermeer-Zuidwest,Geuzenveld - Slotermeer,,Amsterdam,Noord-Holland,1063 KV,NULL,NULL,NL,Netherlands,52.38007,4.82042,3
+37584420,t,"Amsterdam, Noord-Holland, Netherlands",Slotermeer-Zuidwest,Geuzenveld - Slotermeer,,Amsterdam,Noord-Holland,1064 DA,NULL,NULL,NL,Netherlands,52.37347,4.82147,4
+37169148,f,"Amsterdam, Noord-Holland, Netherlands",Slotermeer-Zuidwest,Geuzenveld - Slotermeer,,Amsterdam,Noord-Holland,1064 GW,NULL,NULL,NL,Netherlands,52.37445,4.82182,5
+38379431,t,"Amsterdam, Noord-Holland, Netherlands",Slotervaart,Slotervaart,,Amsterdam,Noord-Holland,1059 VD,NULL,NULL,NL,Netherlands,52.34966,4.84387,1
+38293282,f,"Amsterdam, Noord-Holland, Netherlands",Slotervaart,Slotervaart,,Amsterdam,Noord-Holland,1062 KS,NULL,NULL,NL,Netherlands,52.355,4.83951,2
+38178913,f,"Amsterdam, NH, Netherlands",Slotervaart,Slotervaart,,Amsterdam,NH,1062HD,NULL,NULL,NL,Netherlands,52.3564,4.83004,3
+37964946,t,"Amsterdam, Noord-Holland, Netherlands",Slotervaart,De Aker - Nieuw Sloten,,Amsterdam,Noord-Holland,1066 WH,NULL,NULL,NL,Netherlands,52.34346,4.8079,4
+37669866,f,"Amsterdam, Noord-Holland, Netherlands",Slotervaart,De Aker - Nieuw Sloten,,Amsterdam,Noord-Holland,1066 HR,NULL,NULL,NL,Netherlands,52.34335,4.81716,5
+38423325,t,"Amsterdam, Noord-Holland, Netherlands",Spaarndammer en Zeeheldenbuurt,Westerpark,,Amsterdam,Noord-Holland,1013 SJ,NULL,NULL,NL,Netherlands,52.39008,4.87783,1
+38343917,t,"Amsterdam, Noord-Holland, Netherlands",Spaarndammer en Zeeheldenbuurt,Westerpark,,Amsterdam,Noord-Holland,1051 XD,NULL,NULL,NL,Netherlands,52.38509,4.87691,2
+38315835,t,"Amsterdam, Noord-Holland, Netherlands",Spaarndammer en Zeeheldenbuurt,Westerpark,,Amsterdam,Noord-Holland,1013 RR,NULL,NULL,NL,Netherlands,52.38758,4.88179,3
+38170899,t,"Amsterdam, Noord-Holland, Netherlands",Spaarndammer en Zeeheldenbuurt,Westerpark,,Amsterdam,Noord-Holland,1014 ZG,NULL,NULL,NL,Netherlands,52.39282,4.88177,4
+38170726,t,"Amsterdam, Noord-Holland, Netherlands",Spaarndammer en Zeeheldenbuurt,Westerpark,,Amsterdam,Noord-Holland,1014 ZG,NULL,NULL,NL,Netherlands,52.39328,4.88278,5
+38349624,t,"Berlin, Berlin, Germany",Spandau,Spandau Mitte,Spandau,Berlin,Berlin,13585,NULL,NULL,DE,Germany,52.5449,13.19844,1
+37616878,t,"Berlin, Berlin, Germany",Spandau,Spandau Mitte,Spandau,Berlin,Berlin,13585,NULL,NULL,DE,Germany,52.54755,13.20688,2
+36033521,f,"Berlin, Berlin, Germany",Spandau,Spandau Mitte,Spandau,Berlin,Berlin,13585,NULL,NULL,DE,Germany,52.54686,13.20212,3
+35895817,f,"Berlin, Berlin, Germany",Spandau,Spandau Mitte,Spandau,Berlin,Berlin,13597,NULL,NULL,DE,Germany,52.53687,13.20012,4
+35573608,t,"Berlin, Berlin, Germany",Spandau,Spandau Mitte,Spandau,Berlin,Berlin,13597,NULL,NULL,DE,Germany,52.53849,13.20719,5
+38698637,t,"Berlin, Berlin, Germany",Staaken,BrunsbÃ¼tteler Damm,Spandau,Berlin,Berlin,13591,NULL,NULL,DE,Germany,52.53393,13.15019,1
+38261816,t,"Berlin, Berlin, Germany",Staaken,BrunsbÃ¼tteler Damm,Spandau,Berlin,Berlin,13591,NULL,NULL,DE,Germany,52.53503,13.15804,2
+38126059,f,"Berlin, Berlin, Germany",Staaken,HeerstraÃŸe Nord,Spandau,Berlin,Berlin,13593,NULL,NULL,DE,Germany,52.52092,13.16126,3
+37425228,f,"Berlin, Berlin, Germany",Staaken,HeerstraÃŸe Nord,Spandau,Berlin,Berlin,13593,NULL,NULL,DE,Germany,52.52348,13.16752,4
+36983106,t,"Berlin, Berlin, Germany",Staaken,Falkenhagener Feld,Spandau,Berlin,Berlin,13591,NULL,NULL,DE,Germany,52.5467,13.14499,5
+38280491,f,"Amsterdam, Noord-Holland, Netherlands",Stadionbuurt,Zuid,,Amsterdam,Noord-Holland,1076 PG,NULL,NULL,NL,Netherlands,52.34472,4.8632,1
+37961440,t,"Amsterdam, Noord-Holland, Netherlands",Stadionbuurt,Zuid,,Amsterdam,Noord-Holland,1077 MD,NULL,NULL,NL,Netherlands,52.34697,4.87595,2
+37938159,t,"Amsterdam, Noord-Holland, Netherlands",Stadionbuurt,Zuid,,Amsterdam,Noord-Holland,1076 AM,NULL,NULL,NL,Netherlands,52.34505,4.8668,3
+37929952,t,"Amsterdam, Noord-Holland, Netherlands",Stadionbuurt,Zuid,,Amsterdam,Noord-Holland,1076 XC,NULL,NULL,NL,Netherlands,52.34861,4.86025,4
+37871847,t,"Amsterdam, Noord-Holland, Netherlands",Stadionbuurt,Zuid,,Amsterdam,Noord-Holland,1076 LP,NULL,NULL,NL,Netherlands,52.34484,4.86456,5
+9348447,f,"Berlin, Berlin, Germany",Stadtrandsiedlung Malchow,WeiÃŸensee Ost,Pankow,Berlin,Berlin,13086,NULL,NULL,DE,Germany,52.56698,13.46112,1
+38688022,t,"Berlin, Berlin, Germany",Steglitz,SchloÃŸstr.,Steglitz - Zehlendorf,Berlin,Berlin,12165,NULL,NULL,DE,Germany,52.4562,13.32517,1
+38602453,t,"Berlin, Berlin, Germany",Steglitz,SchloÃŸstr.,Steglitz - Zehlendorf,Berlin,Berlin,12163,NULL,NULL,DE,Germany,52.46406,13.319,2
+38600125,f,"Berlin, Berlin, Germany",Steglitz,Albrechtstr.,Steglitz - Zehlendorf,Berlin,Berlin,12157,NULL,NULL,DE,Germany,52.4573,13.3382,3
+38563131,t,"Berlin, Berlin, Germany",Steglitz,Albrechtstr.,Steglitz - Zehlendorf,Berlin,Berlin,12165,NULL,NULL,DE,Germany,52.45208,13.31887,4
+38478668,t,"Berlin, Berlin, Germany",Steglitz,SchloÃŸstr.,Steglitz - Zehlendorf,Berlin,Berlin,12165,NULL,NULL,DE,Germany,52.45978,13.30924,5
+38381602,t,"Berlin, Berlin, Germany",Tegel,West 1,Reinickendorf,Berlin,Berlin,13507,NULL,NULL,DE,Germany,52.5768,13.27693,1
+38375896,t,"Berlin, Berlin, Germany",Tegel,West 3,Reinickendorf,Berlin,Berlin,13509,NULL,NULL,DE,Germany,52.59426,13.29682,2
+38128708,f,"Berlin, Berlin, Germany",Tegel,West 3,Reinickendorf,Berlin,Berlin,13509,NULL,NULL,DE,Germany,52.58896,13.29213,3
+37835713,f,"Berlin, Berlin, Germany",Tegel,West 5,Reinickendorf,Berlin,Berlin,13507,NULL,NULL,DE,Germany,52.59146,13.28228,4
+37802777,f,"Berlin, Berlin, Germany",Tegel,West 1,Reinickendorf,Berlin,Berlin,13507,NULL,NULL,DE,Germany,52.57304,13.28168,5
+38636465,t,"Berlin, Berlin, Germany",Tempelhof,Tempelhof,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12103,NULL,NULL,DE,Germany,52.46144,13.37024,1
+38631967,t,"Berlin, Berlin, Germany",Tempelhof,Tempelhof,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12101,NULL,NULL,DE,Germany,52.48087,13.37003,2
+38616588,t,"Berlin, Berlin, Germany",Tempelhof,Tempelhof,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12101,NULL,NULL,DE,Germany,52.48395,13.38298,3
+38593325,t,"Berlin, Berlin, Germany",Tempelhof,Tempelhof,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12101,NULL,NULL,DE,Germany,52.4846,13.3848,4
+38428392,t,"Berlin, Berlin, Germany",Tempelhof,Tempelhof,Tempelhof - SchÃ¶neberg,Berlin,Berlin,12099,NULL,NULL,DE,Germany,52.46825,13.38834,5
+38714047,t,"Berlin, Berlin, Germany",Tiergarten,Tiergarten SÃ¼d,Mitte,Berlin,Berlin,10785,NULL,NULL,DE,Germany,52.50441,13.36669,1
+38671580,f,"Berlin, Berlin, Germany",Tiergarten,Tiergarten SÃ¼d,Mitte,Berlin,Berlin,10785,NULL,NULL,DE,Germany,52.50888,13.37486,2
+38487304,t,"Berlin, Berlin, Germany",Tiergarten,Tiergarten SÃ¼d,Mitte,Berlin,Berlin,10785,NULL,NULL,DE,Germany,52.50231,13.35772,3
+38470326,f,"Berlin, Berlin, Germany",Tiergarten,Tiergarten SÃ¼d,Mitte,Berlin,Berlin,10785,NULL,NULL,DE,Germany,52.50657,13.36618,4
+38392496,f,"Berlin, Berlin, Germany",Tiergarten,Tiergarten SÃ¼d,Mitte,Berlin,Berlin,10787,NULL,NULL,DE,Germany,52.50802,13.34901,5
+37584917,t,"Amsterdam, Noord-Holland, Netherlands",Tuindorp Buiksloot,Oud-Noord,,Amsterdam,Noord-Holland,1025 PD,NULL,NULL,NL,Netherlands,52.39314,4.9325,1
+37561839,t,"Amsterdam, Noord-Holland, Netherlands",Tuindorp Buiksloot,Oud-Noord,,Amsterdam,Noord-Holland,1025 LA,NULL,NULL,NL,Netherlands,52.39164,4.93359,2
+36055971,t,"Amsterdam, Noord-Holland, Netherlands",Tuindorp Buiksloot,Oud-Noord,,Amsterdam,Noord-Holland,1025 LB,NULL,NULL,NL,Netherlands,52.39197,4.93446,3
+35285186,f,"Amsterdam, NH, Netherlands",Tuindorp Buiksloot,Oud-Noord,,Amsterdam,NH,1025 RK,NULL,NULL,NL,Netherlands,52.39242,4.92589,4
+33823199,t,"Amsterdam, Noord-Holland, Netherlands",Tuindorp Buiksloot,Oud-Noord,,Amsterdam,Noord-Holland,1025 RK,NULL,NULL,NL,Netherlands,52.39372,4.9261,5
+38486013,f,"Amsterdam, NH, Netherlands",Tuindorp Nieuwendam,Oud-Noord,,Amsterdam,NH,1023 XS,NULL,NULL,NL,Netherlands,52.39365,4.93937,1
+36347936,t,"Amsterdam, Noord-Holland, Netherlands",Tuindorp Nieuwendam,Oud-Noord,,Amsterdam,Noord-Holland,1023 AV,NULL,NULL,NL,Netherlands,52.39104,4.94415,2
+34433258,f,"Amsterdam, North Holland, Netherlands",Tuindorp Nieuwendam,Oud-Noord,,Amsterdam,North Holland,1025 LN,NULL,NULL,NL,Netherlands,52.38501,4.94721,3
+34167878,t,"Amsterdam, Noord-Holland, Netherlands",Tuindorp Nieuwendam,Oud-Noord,,Amsterdam,Noord-Holland,1023 BR,NULL,NULL,NL,Netherlands,52.38744,4.94755,4
+33991192,t,"Amsterdam, Noord-Holland, Netherlands",Tuindorp Nieuwendam,Oud-Noord,,Amsterdam,Noord-Holland,1023 BN,NULL,NULL,NL,Netherlands,52.38739,4.94698,5
+38197571,t,"Amsterdam, Noord-Holland, Netherlands",Tuindorp Oostzaan,Noord-West,,Amsterdam,Noord-Holland,1036 KN,NULL,NULL,NL,Netherlands,52.40998,4.90196,1
+38036880,t,"Noord Holland, 32A 1033 SM, Netherlands",Tuindorp Oostzaan,Oud-Noord,,Noord Holland,32A 1033 SM,Amsterdam,NULL,NULL,NL,Netherlands,52.40534,4.8887,2
+37906018,t,"Amsterdam, Noord-Holland, Netherlands",Tuindorp Oostzaan,Noord-West,,Amsterdam,Noord-Holland,1033 EA,NULL,NULL,NL,Netherlands,52.4145,4.88991,3
+37853184,f,"Amsterdam, NH, Netherlands",Tuindorp Oostzaan,Noord-West,,Amsterdam,NH,1033 GT,NULL,NULL,NL,Netherlands,52.41033,4.89155,4
+37679076,t,"Amsterdam, Noord-Holland, Netherlands",Tuindorp Oostzaan,Noord-West,,Amsterdam,Noord-Holland,1033 GL,NULL,NULL,NL,Netherlands,52.41184,4.89122,5
+37349064,f,"Amsterdam, NH, Netherlands",Volewijck,Oud-Noord,,Amsterdam,NH,1031XR,NULL,NULL,NL,Netherlands,52.38898,4.90714,1
+37106508,f,"Amsterdam, Noord-Holland, Netherlands",Volewijck,Oud-Noord,,Amsterdam,Noord-Holland,1031,NULL,NULL,NL,Netherlands,52.38841,4.91003,2
+36746573,t,"Amsterdam, Noord-Holland, Netherlands",Volewijck,Oud-Noord,,Amsterdam,Noord-Holland,1032 EH,NULL,NULL,NL,Netherlands,52.39512,4.916,3
+36620726,t,"Amsterdam, Noord-Holland, Netherlands",Volewijck,Oud-Noord,,Amsterdam,Noord-Holland,1031 CE,NULL,NULL,NL,Netherlands,52.38561,4.90891,4
+36617193,t,"Amsterdam, Noord-Holland, Netherlands",Volewijck,Oud-Noord,,Amsterdam,Noord-Holland,1032 GG,NULL,NULL,NL,Netherlands,52.3926,4.91264,5
+37967620,t,"Berlin, Berlin, Germany",Waidmannslust,Nord 2,Reinickendorf,Berlin,Berlin,13469,NULL,NULL,DE,Germany,52.60948,13.31768,1
+34706675,t,"Berlin, Berlin, Germany",Waidmannslust,Nord 2,Reinickendorf,Berlin,Berlin,13469,NULL,NULL,DE,Germany,52.6119,13.32979,2
+34705646,t,"Berlin, Berlin, Germany",Waidmannslust,Nord 2,Reinickendorf,Berlin,Berlin,13469,NULL,NULL,DE,Germany,52.6123,13.32968,3
+34107551,t,"Berlin, Berlin, Germany",Waidmannslust,Nord 2,Reinickendorf,Berlin,Berlin,13469,NULL,NULL,DE,Germany,52.61091,13.33014,4
+31080067,t,"Berlin, Berlin, Germany",Waidmannslust,Nord 2,Reinickendorf,Berlin,Berlin,13469,NULL,NULL,DE,Germany,52.61064,13.33092,5
+37443008,t,"Berlin, Berlin, Germany",Wannsee,Zehlendorf  SÃ¼dwest,Steglitz - Zehlendorf,Berlin,Berlin,14109,NULL,NULL,DE,Germany,52.39987,13.1415,1
+36541436,t,"Berlin, Berlin, Germany",Wannsee,Zehlendorf  SÃ¼dwest,Steglitz - Zehlendorf,Berlin,Berlin,14109,NULL,NULL,DE,Germany,52.43231,13.16515,2
+36360929,f,"Berlin, Berlin, Germany",Wannsee,Zehlendorf  SÃ¼dwest,Steglitz - Zehlendorf,Berlin,Berlin,14109,NULL,NULL,DE,Germany,52.39578,13.15126,3
+34678365,f,"Berlin, Berlin, Germany",Wannsee,Zehlendorf  SÃ¼dwest,Steglitz - Zehlendorf,Berlin,Berlin,14109,NULL,NULL,DE,Germany,52.4245,13.16275,4
+34565816,f,"Berlin, Berlin, Germany",Wannsee,Zehlendorf  SÃ¼dwest,Steglitz - Zehlendorf,Berlin,Berlin,14109,NULL,NULL,DE,Germany,52.42037,13.15774,5
+34936986,t,"Berlin, Berlin, Germany",Wartenberg,"Malchow, Wartenberg und Falkenberg",Lichtenberg,Berlin,Berlin,13059,NULL,NULL,DE,Germany,52.58964,13.53524,1
+33224507,t,"Berlin, Berlin, Germany",Wartenberg,"Malchow, Wartenberg und Falkenberg",Lichtenberg,Berlin,Berlin,13059,NULL,NULL,DE,Germany,52.5742,13.51817,2
+38402327,f,"Diemen, Noord-Holland, Netherlands",Watergraafsmeer,Watergraafsmeer,,Diemen,Noord-Holland,1112 EH,NULL,NULL,NL,Netherlands,52.33635,4.95405,1
+38396682,t,"Amsterdam, Noord-Holland, Netherlands",Watergraafsmeer,Watergraafsmeer,,Amsterdam,Noord-Holland,1096 DK,NULL,NULL,NL,Netherlands,52.33779,4.92568,2
+38271516,t,"Diemen, Noord-Holland, Netherlands",Watergraafsmeer,Watergraafsmeer,,Diemen,Noord-Holland,1112 JN,NULL,NULL,NL,Netherlands,52.33541,4.94986,3
+38169577,t,"Amsterdam, Noord-Holland, Netherlands",Watergraafsmeer,Watergraafsmeer,,Amsterdam,Noord-Holland,1096 BA,NULL,NULL,NL,Netherlands,52.33996,4.91865,4
+38151075,t,"Amsterdam, Noord-Holland, Netherlands",Watergraafsmeer,Watergraafsmeer,,Amsterdam,Noord-Holland,1098 JR,NULL,NULL,NL,Netherlands,52.35533,4.93818,5
+38728440,f,"Berlin, Berlin, Germany",Wedding,Wedding Zentrum,Mitte,Berlin,Berlin,13357,NULL,NULL,DE,Germany,52.54844,13.36997,1
+38715220,t,"Berlin, Berlin, Germany",Wedding,Wedding Zentrum,Mitte,Berlin,Berlin,13357,NULL,NULL,DE,Germany,52.55396,13.37755,2
+38666674,f,"Berlin, Berlin, Germany",Wedding,Wedding Zentrum,Mitte,Berlin,Berlin,13353,NULL,NULL,DE,Germany,52.54997,13.35354,3
+38660261,t,"Berlin, Berlin, Germany",Wedding,Brunnenstr. Nord,Mitte,Berlin,Berlin,13355,NULL,NULL,DE,Germany,52.53563,13.38991,4
+38635971,t,"Berlin, Berlin, Germany",Wedding,Wedding Zentrum,Mitte,Berlin,Berlin,13347,NULL,NULL,DE,Germany,52.5512,13.35856,5
+38505981,f,"Amsterdam, NH, Netherlands",Weesperbuurt en Plantage,Centrum-Oost,,Amsterdam,NH,1018 VC,NULL,NULL,NL,Netherlands,52.36673,4.90819,1
+38316429,f,"Amsterdam, Netherlands",Weesperbuurt en Plantage,Centrum-Oost,,Amsterdam,,1018 TA,NULL,NULL,NL,Netherlands,52.36633,4.91237,2
+38316393,f,"Amsterdam, Netherlands",Weesperbuurt en Plantage,Centrum-Oost,,Amsterdam,,1018 TA,NULL,NULL,NL,Netherlands,52.36651,4.91196,3
+38315886,f,"Amsterdam, Netherlands",Weesperbuurt en Plantage,Centrum-Oost,,Amsterdam,,1018 TA,NULL,NULL,NL,Netherlands,52.36639,4.91182,4
+38214492,f,"Amsterdam, North Holland, Netherlands",Weesperbuurt en Plantage,Centrum-Oost,,Amsterdam,North Holland,1018 TS,NULL,NULL,NL,Netherlands,52.36235,4.91776,5
+38636982,f,"Berlin, Berlin, Germany",WeiÃŸensee,WeiÃŸensee,Pankow,Berlin,Berlin,13086,NULL,NULL,DE,Germany,52.54993,13.44855,1
+38546044,t,"Berlin, Berlin, Germany",WeiÃŸensee,WeiÃŸensee,Pankow,Berlin,Berlin,13088,NULL,NULL,DE,Germany,52.54842,13.4582,2
+38370141,t,"Berlin, Berlin, Germany",WeiÃŸensee,WeiÃŸensee,Pankow,Berlin,Berlin,13086,NULL,NULL,DE,Germany,52.54995,13.45024,3
+38366013,t,"Berlin, Berlin, Germany",WeiÃŸensee,WeiÃŸensee,Pankow,Berlin,Berlin,13086,NULL,NULL,DE,Germany,52.54834,13.44795,4
+38355241,t,"Berlin, Berlin, Germany",WeiÃŸensee,WeiÃŸensee,Pankow,Berlin,Berlin,13086,NULL,NULL,DE,Germany,52.55253,13.45101,5
+38530763,t,"Amsterdam, NH, Netherlands",Westelijke Eilanden,Centrum-West,,Amsterdam,NH,1013 KS,NULL,NULL,NL,Netherlands,52.38583,4.88953,1
+38425685,f,"Amsterdam, Noord-Holland, Netherlands",Westelijke Eilanden,Westerpark,,Amsterdam,Noord-Holland,1013 PR,NULL,NULL,NL,Netherlands,52.38965,4.88666,2
+37967825,t,"Amsterdam, Noord-Holland, Netherlands",Westelijke Eilanden,Centrum-West,,Amsterdam,Noord-Holland,1013 LL,NULL,NULL,NL,Netherlands,52.38575,4.88722,3
+37616874,t,"Amsterdam, Noord-Holland, Netherlands",Westelijke Eilanden,Westerpark,,Amsterdam,Noord-Holland,1013 BX,NULL,NULL,NL,Netherlands,52.38994,4.89157,4
+37475687,t,"Amsterdam, Noord-Holland, Netherlands",Westelijke Eilanden,Centrum-West,,Amsterdam,Noord-Holland,1013 GM,NULL,NULL,NL,Netherlands,52.38366,4.88887,5
+38686462,t,"Berlin, Berlin, Germany",Westend,Westend,Charlottenburg-Wilm.,Berlin,Berlin,14050,NULL,NULL,DE,Germany,52.51722,13.26347,1
+38370638,t,"Berlin, Berlin, Germany",Westend,Westend,Charlottenburg-Wilm.,Berlin,Berlin,14052,NULL,NULL,DE,Germany,52.50729,13.2716,2
+38340782,t,"Berlin, Berlin, Germany",Westend,Heerstrasse,Charlottenburg-Wilm.,Berlin,Berlin,14055,NULL,NULL,DE,Germany,52.50308,13.26167,3
+38075217,t,"Berlin, Berlin, Germany",Westend,Westend,Charlottenburg-Wilm.,Berlin,Berlin,14050,NULL,NULL,DE,Germany,52.52032,13.27351,4
+37481741,t,"Berlin, Berlin, Germany",Westend,Westend,Charlottenburg-Wilm.,Berlin,Berlin,14052,NULL,NULL,DE,Germany,52.51267,13.26678,5
+37448352,t,"Berlin, Berlin, Germany",Wilhelmsruh,SchÃ¶nholz/Wilhelmsruh/Rosenthal,Pankow,Berlin,Berlin,13158,NULL,NULL,DE,Germany,52.58636,13.36595,1
+35076935,t,"Berlin, Berlin, Germany",Wilhelmsruh,SchÃ¶nholz/Wilhelmsruh/Rosenthal,Pankow,Berlin,Berlin,13158,NULL,NULL,DE,Germany,52.58719,13.36296,2
+32918713,t,"Berlin, Berlin, Germany",Wilhelmsruh,SchÃ¶nholz/Wilhelmsruh/Rosenthal,Pankow,Berlin,Berlin,13158,NULL,NULL,DE,Germany,52.5851,13.37112,3
+31056518,f,"Berlin, Berlin, Germany",Wilhelmsruh,SchÃ¶nholz/Wilhelmsruh/Rosenthal,Pankow,Berlin,Berlin,13158,NULL,NULL,DE,Germany,52.58725,13.36766,4
+22302187,f,"Berlin, Berlin, Germany",Wilhelmsruh,SchÃ¶nholz/Wilhelmsruh/Rosenthal,Pankow,Berlin,Berlin,13158,NULL,NULL,DE,Germany,52.58834,13.3687,5
+38712209,f,"Berlin, Berlin, Germany",Wilhelmstadt,Wilhelmstadt,Spandau,Berlin,Berlin,,NULL,NULL,DE,Germany,52.51472,13.19312,1
+38677410,f,"Berlin, Berlin, Germany",Wilhelmstadt,Wilhelmstadt,Spandau,Berlin,Berlin,,NULL,NULL,DE,Germany,52.51508,13.19258,2
+38641145,f,"Berlin, Berlin, Germany",Wilhelmstadt,Wilhelmstadt,Spandau,Berlin,Berlin,13595,NULL,NULL,DE,Germany,52.51806,13.19573,3
+38611445,f,"Berlin, Berlin, Germany",Wilhelmstadt,Wilhelmstadt,Spandau,Berlin,Berlin,13581,NULL,NULL,DE,Germany,52.52727,13.19725,4
+38471927,t,"Berlin, Berlin, Germany",Wilhelmstadt,Wilhelmstadt,Spandau,Berlin,Berlin,13595,NULL,NULL,DE,Germany,52.50707,13.20411,5
+38724219,f,"Berlin, Berlin, Germany",Wilmersdorf,DÃ¼sseldorfer StraÃŸe,Charlottenburg-Wilm.,Berlin,Berlin,10719,NULL,NULL,DE,Germany,52.49634,13.32162,1
+38718742,t,"Berlin, Berlin, Germany",Wilmersdorf,Volkspark Wilmersdorf,Charlottenburg-Wilm.,Berlin,Berlin,10717,NULL,NULL,DE,Germany,52.48995,13.32377,2
+38701034,t,"Berlin, Berlin, Germany",Wilmersdorf,Volkspark Wilmersdorf,Charlottenburg-Wilm.,Berlin,Berlin,10715,NULL,NULL,DE,Germany,52.48561,13.32299,3
+38600270,t,"Berlin, Berlin, Germany",Wilmersdorf,Wiesbadener StraÃŸe,Charlottenburg-Wilm.,Berlin,Berlin,14197,NULL,NULL,DE,Germany,52.46856,13.31493,4
+38431837,t,"Berlin, Berlin, Germany",Wilmersdorf,Volkspark Wilmersdorf,Charlottenburg-Wilm.,Berlin,Berlin,10779,NULL,NULL,DE,Germany,52.49388,13.33593,5
+38644234,t,"Berlin, Berlin, Germany",Wittenau,Nord 2,Reinickendorf,Berlin,Berlin,13437,NULL,NULL,DE,Germany,52.58821,13.33781,1
+38546406,t,"Berlin, Berlin, Germany",Wittenau,West 3,Reinickendorf,Berlin,Berlin,13509,NULL,NULL,DE,Germany,52.58423,13.3018,2
+38157178,t,"Berlin, Berlin, Germany",Wittenau,West 3,Reinickendorf,Berlin,Berlin,13509,NULL,NULL,DE,Germany,52.58588,13.30187,3
+38069887,f,"Berlin, Berlin, Germany",Wittenau,Nord 2,Reinickendorf,Berlin,Berlin,13437,NULL,NULL,DE,Germany,52.58056,13.33565,4
+37581746,t,"Berlin, Berlin, Germany",Wittenau,Nord 2,Reinickendorf,Berlin,Berlin,13403,NULL,NULL,DE,Germany,52.57895,13.31924,5
+38405127,f,"Amsterdam, NH, Netherlands",Zeeburg,Oostelijk Havengebied - Indische Buurt,,Amsterdam,NH,1019 HV,NULL,NULL,NL,Netherlands,52.36834,4.94891,1
+37736272,f,"Amsterdam, North Holland, Netherlands",Zeeburg,Oostelijk Havengebied - Indische Buurt,,Amsterdam,North Holland,1019 AZ,NULL,NULL,NL,Netherlands,52.36964,4.93461,2
+37383881,t,"Amsterdam, Noord-Holland, Netherlands",Zeeburg,Oostelijk Havengebied - Indische Buurt,,Amsterdam,Noord-Holland,1019 AW,NULL,NULL,NL,Netherlands,52.37165,4.94844,3
+35754087,t,"Amsterdam, Noord-Holland, Netherlands",Zeeburg,Oostelijk Havengebied - Indische Buurt,,Amsterdam,Noord-Holland,1019 DV,NULL,NULL,NL,Netherlands,52.37482,4.93544,4
+35647960,t,"Amsterdam, Noord-Holland, Netherlands",Zeeburg,Oostelijk Havengebied - Indische Buurt,,Amsterdam,Noord-Holland,1019 AZ,NULL,NULL,NL,Netherlands,52.37114,4.93437,5
+38570229,f,"Teltow, Brandenburg, Germany",Zehlendorf,Teltower Damm,Steglitz - Zehlendorf,Teltow,Brandenburg,14513,NULL,NULL,DE,Germany,52.40286,13.25929,1
+38202447,t,"Berlin, Berlin, Germany",Zehlendorf,Zehlendorf  Nord,Steglitz - Zehlendorf,Berlin,Berlin,14169,NULL,NULL,DE,Germany,52.45183,13.25642,2
+38009524,t,"Berlin, Berlin, Germany",Zehlendorf,Zehlendorf  Nord,Steglitz - Zehlendorf,Berlin,Berlin,14169,NULL,NULL,DE,Germany,52.4474,13.26303,3
+37897198,t,"Berlin, Berlin, Germany",Zehlendorf,Zehlendorf  Nord,Steglitz - Zehlendorf,Berlin,Berlin,14163,NULL,NULL,DE,Germany,52.43767,13.2402,4
+37362867,t,"Berlin, Berlin, Germany",Zehlendorf,Zehlendorf  Nord,Steglitz - Zehlendorf,Berlin,Berlin,14163,NULL,NULL,DE,Germany,52.44768,13.23415,5
