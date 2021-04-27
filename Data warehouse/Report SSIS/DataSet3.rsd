@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedDataSet xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/shareddatasetdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <DataSet Name="DataSet3">
+    <Query>
+      <DataSourceReference>MASTER-DS</DataSourceReference>
+      <CommandText>select neighbourhood,count(*) as counter,sum(noOfReviews) as totalReviews, 
+avg(review_scores_rating) as avgRating
+from (select nd.neighbourhood as neighbourhood,rsf.number_of_reviews as noOfReviews,
+CONVERT(float, rsf.review_scores_rating) as review_Scores_rating
+from neighbourhood_dim nd left outer join listing_detail_fact ldf 
+on nd.neighbourhood_id = ldf.id
+left outer join review_scores_fact rsf on rsf.review_score_id=ldf.review_score_id
+) as tbl where neighbourhood != '' group by neighbourhood  order by 2 desc,3</CommandText>
+    </Query>
+    <Fields>
+      <Field Name="neighbourhood">
+        <DataField>neighbourhood</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="counter">
+        <DataField>counter</DataField>
+        <rd:TypeName>System.Int32</rd:TypeName>
+      </Field>
+      <Field Name="totalReviews">
+        <DataField>totalReviews</DataField>
+        <rd:TypeName>System.Int32</rd:TypeName>
+      </Field>
+      <Field Name="avgRating">
+        <DataField>avgRating</DataField>
+        <rd:TypeName>System.Double</rd:TypeName>
+      </Field>
+    </Fields>
+  </DataSet>
+</SharedDataSet>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedDataSet xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/shareddatasetdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <DataSet Name="DataSet3">
+    <Query>
+      <DataSourceReference>qds</DataSourceReference>
+      <CommandText>select sum(price) as revenue,room_type from (
+select ld.property_id as location_id ,ld.room_type as room_type,lf.list_id as list_id, price as price,
+lf.property_id as property_id from property_dim ld 
+inner join listing_detail_fact lf on ld.property_id=lf.location_id) as tbl  group by room_type</CommandText>
+    </Query>
+    <Fields>
+      <Field Name="revenue">
+        <DataField>revenue</DataField>
+        <rd:TypeName>System.Double</rd:TypeName>
+      </Field>
+      <Field Name="room_type">
+        <DataField>room_type</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+    </Fields>
+  </DataSet>
+</SharedDataSet>

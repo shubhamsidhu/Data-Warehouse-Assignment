@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedDataSet xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/shareddatasetdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <DataSet Name="DataSet1">
+    <Query>
+      <DataSourceReference>qds</DataSourceReference>
+      <CommandText>SELECT        lcoation_dim.location_id, lcoation_dim.city, lcoation_dim.country, listing_detail_fact.id, listing_detail_fact.location_id AS Expr1, listing_detail_fact.property_id, property_dim.property_id AS Expr2, property_dim.room_type, 
+                         property_dim.price, property_dim.square_feet, property_dim.bedrooms, property_dim.bathrooms
+FROM            lcoation_dim INNER JOIN
+                         listing_detail_fact ON lcoation_dim.location_id = listing_detail_fact.location_id INNER JOIN
+                         property_dim ON listing_detail_fact.property_id = property_dim.property_id</CommandText>
+    </Query>
+    <Fields>
+      <Field Name="location_id">
+        <DataField>location_id</DataField>
+        <rd:TypeName>System.Int32</rd:TypeName>
+      </Field>
+      <Field Name="city">
+        <DataField>city</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="country">
+        <DataField>country</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="id">
+        <DataField>id</DataField>
+        <rd:TypeName>System.Int32</rd:TypeName>
+      </Field>
+      <Field Name="Expr1">
+        <DataField>Expr1</DataField>
+        <rd:TypeName>System.Int32</rd:TypeName>
+      </Field>
+      <Field Name="property_id">
+        <DataField>property_id</DataField>
+        <rd:TypeName>System.Int32</rd:TypeName>
+      </Field>
+      <Field Name="Expr2">
+        <DataField>Expr2</DataField>
+        <rd:TypeName>System.Int32</rd:TypeName>
+      </Field>
+      <Field Name="room_type">
+        <DataField>room_type</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="price">
+        <DataField>price</DataField>
+        <rd:TypeName>System.Double</rd:TypeName>
+      </Field>
+      <Field Name="square_feet">
+        <DataField>square_feet</DataField>
+        <rd:TypeName>System.Double</rd:TypeName>
+      </Field>
+      <Field Name="bedrooms">
+        <DataField>bedrooms</DataField>
+        <rd:TypeName>System.Int32</rd:TypeName>
+      </Field>
+      <Field Name="bathrooms">
+        <DataField>bathrooms</DataField>
+        <rd:TypeName>System.Int32</rd:TypeName>
+      </Field>
+    </Fields>
+  </DataSet>
+</SharedDataSet>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedDataSet xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/shareddatasetdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <DataSet Name="DataSet2">
+    <Query>
+      <DataSourceReference>qds</DataSourceReference>
+      <CommandText>select sum(price) AS revenue,city from (
+select location_id,city,list_id , pd.price as price from (
+select ld.location_id as location_id ,ld.city as city,lf.list_id as list_id ,lf.property_id as property_id from lcoation_dim ld 
+inner join listing_detail_fact lf on ld.location_id=lf.location_id)  as tbl1
+inner join property_dim pd on tbl1.property_id=pd.property_id ) as tbl2 group by city order by 1 desc
+
+</CommandText>
+    </Query>
+    <Fields>
+      <Field Name="revenue">
+        <DataField>revenue</DataField>
+        <rd:TypeName>System.Double</rd:TypeName>
+      </Field>
+      <Field Name="city">
+        <DataField>city</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+    </Fields>
+  </DataSet>
+</SharedDataSet>
