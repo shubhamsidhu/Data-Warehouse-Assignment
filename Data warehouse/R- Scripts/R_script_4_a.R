@@ -20,7 +20,7 @@ library(plotly)
 #left outer join review_scores_fact rsf on rsf.review_score_id=ldf.review_score_id
 #) as tbl where neighbourhood != '' group by neighbourhood  order by avgRating")
 
-df <- read.table("D:/GDrive/MSBI_PROJ_20191128_1/R_Script/script4.csv",header =FALSE,sep = ",")
+df <- read.table("Data/script4.csv",header =FALSE,sep = ",")
 
 View(df)
 
