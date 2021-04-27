@@ -23,7 +23,7 @@ library(dplyr)
 #")
 
 
-df <- read.table("D:/GDrive/MSBI_PROJ_20191128_1/R_Script/script3.csv",header =FALSE,sep = ",")
+df <- read.table("Data/R_Script/script3.csv",header =FALSE,sep = ",")
 
 View(df)
 
