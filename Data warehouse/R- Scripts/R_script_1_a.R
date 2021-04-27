@@ -20,7 +20,7 @@ library(dplyr)
 #inner join property_dim pd on tbl1.property_id=pd.property_id 
 
 
-df <- read.table("D:/GDrive/MSBI_PROJ_20191128_1/R_Script/script2.csv",header =FALSE,sep = ",")
+df <- read.table("Data/script2.csv",header =FALSE,sep = ",")
 
 View(df)
 
